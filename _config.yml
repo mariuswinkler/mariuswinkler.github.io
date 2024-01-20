@@ -26,10 +26,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  mariuswinkler
 header_pages:
- - curriculum.markdown
- - der_rote_faden.markdown
- - research.markdown
- - publications_and_conferences.markdown
+ - der_rote_faden.md
+ - research.md
+ - curriculum.md
+ - publications_and_conferences.md
 
 # Build settings
 theme: minima
