@@ -4,7 +4,7 @@
 
 layout: default
 ---
-![Image](inputs/Photo.jpeg)
+#![Image](inputs/Photo.jpeg)
 ![Video](inputs/SST_video_white_12_fps.mp4)
 
 Salut !
