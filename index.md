@@ -5,8 +5,9 @@
 layout: default
 ---
 
+![](_inputs/SST_video_white_12_fps.mp4)
 
-Salut
+Salut !
 
 I am Marius, an atmospheric physicist and currently engaged as a PhD student at the IMPRS at the Max Planck Institute for Meteorology.
 
