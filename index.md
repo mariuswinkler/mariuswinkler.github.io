@@ -7,6 +7,12 @@ layout: default
 #![Image](inputs/Photo.jpeg)
 ![Shown are daily means of sea surface temperature in the equatorial Pacific Ocean from the ICON-Sapphire output. The darker, blue shades represent the formation of the equatorial cold tongue. This forms as part of the Bjerknes feedback cycle due to wind-driven upwelling at the equator. Also look for the Tropical Instability Waves, these tentacle-like and important structures north and south of the cold tongue.](inputs/SST_video_white_12_fps.mp4)
 
+<video width="640" height="360" controls autoplay>
+  <source src="inputs/SST_video_white_12_fps.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
 Salut !
 
 I am Marius, an atmospheric physicist and currently engaged as a PhD student at the IMPRS at the Max Planck Institute for Meteorology.
