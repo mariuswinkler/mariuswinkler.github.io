@@ -5,7 +5,8 @@
 layout: default
 ---
 
-![](_inputs/SST_video_white_12_fps.mp4)
+<!-- ![Video](inputs/SST_video_white_12_fps.mp4 "Equatorial Paciifc") -->
+![Video](inputs/SST_video_white_12_fps.mp4)
 
 Salut !
 
