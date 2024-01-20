@@ -24,6 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   I am Marius, an atmospheric physicist and currently engaged as a PhD student at the "[IMPRS](https://mpimet.mpg.de/karriere/imprs-esm)" at the Max Planck Institute for Meteorology.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username: jekyllrb
 github_username:  mariuswinkler
 header_pages:
  - der_rote_faden.md
