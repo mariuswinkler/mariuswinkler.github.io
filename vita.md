@@ -4,7 +4,7 @@ title: "CV"
 permalink: /cv
 ---
 <div style="text-align: right;">
-    <img src="inputs/MW.jpeg" alt="Marius Winkler" style="height: 100px; border-radius: 50%;">
+    <img src="inputs/MW.jpeg">
 </div>
 
 **Ph.D. Earth System Sciences**
