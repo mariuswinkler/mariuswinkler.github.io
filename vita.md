@@ -4,7 +4,7 @@ title: "CV"
 permalink: /cv
 ---
 <div style="text-align: right;">
-    <source src="inputs/photo.jpeg" style="width: 100px; height: 100px; border-radius: 50%;">
+    <img src="inputs/photo.jpeg" alt="Your Face" style="width: 100px; height: 100px; border-radius: 50%;">
 </div>
 
 **Ph.D. Earth System Sciences**
