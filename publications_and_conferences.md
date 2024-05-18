@@ -24,10 +24,10 @@ Bachelor-Symposium, Young German Physical Society, Berlin, Germany, November 21,
 International Conference on Control of Self-Organizing Nonlinear Systems, Rostock, Germany, September 09 - 13 2018
 
 **Hackathons and Workshops**
-- Hackathon: NextGems C4, Hamburg, Germany, March 4 - March 8, 2024
-- Hackathon: NextGems C3, Madrid, Spain, May 29 - June 02, 2023
-- Hackathon: NextGems C2, Vienna, Austria, June 28 - July 03, 2022
-- Hackathon: NextGems C1, Berlin, Germany, October 19 - 22, 2021
+- Hackathon: [NextGems](https://nextgems-h2020.eu/) C4, Hamburg, Germany, March 4 - March 8, 2024
+- Hackathon: [NextGems](https://nextgems-h2020.eu/) C3, Madrid, Spain, May 29 - June 02, 2023
+- Hackathon: [NextGems](https://nextgems-h2020.eu/) C2, Vienna, Austria, June 28 - July 03, 2022
+- Hackathon: [NextGems](https://nextgems-h2020.eu/) C1, Berlin, Germany, October 19 - 22, 2021
 - Hackathon: DYAMOND, Hamburg, Germany, July 14 - July 16, 2021
 - Dynamics of Coupled Oscillator Systems Workshop, Weierstrass Institute for Applied Analysis and Stochastics, Berlin, Germany, November 19-21, 2018
 
