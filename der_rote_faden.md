@@ -3,16 +3,13 @@ layout: page
 title:  "Der Rote Faden"
 permalink: /der_rote_fade
 ---
-
+<span style="font-size: 0.7em; font-style: normal; font-weight: normal;">
+    "Der rote Faden" is a German idiom which refers to a common theme or thread that runs through a story (or a CV).<br> It translates to "the red thread" in English
+</span>
 <figure>
     <img src="inputs/sailing_trip_panorama.jpg" alt="catamaran_tallinn_bay">
     <figcaption style="background-color: #f2f2f2; padding: 5px;">In 2017, I circumnavigated the Baltic Sea on an 11-week sailing trip. We didn't always manage to judge the surface winds over the sea well, as the calm in the picture shows. The guy on the port side of the Topcat Spitfire (built 1989) catamaran is me. We're taking a break from the paddling we had to start in order to reach land in time before the sun goes down. </figcaption>
 </figure>
-
-
-<span style="font-size: 0.7em; font-style: normal; font-weight: normal;">
-    "Der rote Faden" is a German idiom which refers to a common theme or thread that runs through a story (or a CV). It translates to "the red thread" in English
-</span>
 
 I arrived at the Max Planck Institute in Hamburg by a roundabout way.<br>
 Nature, our Earth, and the universe have always interested me. That's why I started studying physics, in order to understand what holds the world together at its core.<br>
