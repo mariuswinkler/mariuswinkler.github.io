@@ -28,7 +28,7 @@ Supervisors: [Bjorn Stevens](https://mpimet.mpg.de/institut/mitarbeiterinnen/mit
 2018 – 2020<br>   
 - Master's thesis: *Phase Response Approaches to Neural Activity Models with Delay* in the *Group for Neural Theory*, École Normale Supérieure, Paris<br>
 Supervisors: [Boris Gutkin](https://lnc2.dec.ens.fr/en/member/636/boris-gutkin) (ENS Paris), [Eckehard Schöll](https://www.tu.berlin/itp/agschoell/eckehard-schoell-2) (TU Berlin)
-- **Published**:<br> 
+- Published:<br> 
 **Winkler, M.**, et al. (2021) *„Phase response approaches to neural activity models with distributed delay"*. Biol Cybern (Biological Cybernetics), December. [doi.org/10.1007/s00422-021-00910-9](https://link.springer.com/article/10.1007/s00422-021-00910-9).
 - Emphases: Neuroscience, Nonlinear dynamics and control, Colloidal systems: theory and simulation, Advanced quantum mechanics
 
@@ -42,7 +42,7 @@ Technische Universität Berlin
 2014 – 2018<br>
 - Bachelor's thesis: *Synchronization of chimera states in multiplex networks of logistic maps* in the Research *Group for Nonlinear Dynamics and Control*, Technische Universität Berlin.<br>
 Supervisor: [Eckehard Schöll](https://www.tu.berlin/itp/agschoell/eckehard-schoell-2) (TU Berlin)
-- **Published**:<br>
+- Published:<br>
 **Winkler, M.**, et al. (2019). *„Relay synchronization in multiplex networks of discrete maps"*. EPL (Europhysics Letters), Vol. 126, Nr. 5, July 2019, p. 50004. [doi:10.1209/0295-5075/126/50004](https://iopscience.iop.org/article/10.1209/0295-5075/126/50004/pdf).
 - Emphases: Theoretical and experimental physics
 - 2016 - 2017: Erasmus scholarship for study abroad at the École Normale Supérieure de Lyon
