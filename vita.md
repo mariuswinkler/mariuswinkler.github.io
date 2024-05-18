@@ -3,8 +3,10 @@ layout: page
 title: "CV"
 permalink: /cv
 ---
-<div style="text-align: right; width: 100px; height: 100px; overflow: hidden; border-radius: 50%;">
-    <img src="inputs/MW.jpeg" alt="Marius Winkler" style="width: 100%; height: 100%; object-fit: cover;">
+<div style="text-align: right;">
+    <div style="width: 100px; height: 100px; overflow: hidden; border-radius: 50%;">
+        <img src="inputs/MW.jpeg" alt="Marius Winkler" style="width: 100%; height: 100%; object-fit: cover;">
+    </div>
 </div>
 
 **Ph.D. Earth System Sciences**
