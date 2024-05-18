@@ -4,7 +4,7 @@ title: "Research"
 permalink: /Research
 ---
 
-<p align="center"><strong># Equatorial Surface Winds over the Ocean</strong></p>
+<p align="center"><strong>Equatorial Boundary Layer Winds</strong></p>
 
 As part of my PhD research, I am studying the dynamics of surface winds over equatorial ocean basins. The factors contributing to the formation and persistence of surface winds are as varied as they are complex. By employing a momentum analysis, I uncover the driving forces that maintain these winds. This approach provides me with insights into the essential components of the "wind recipe". I am not doing this just for one specific ocean; rather, I am considering all equatorial ocean basins, each subject to fundamentally different dynamics. We learn that the pressure gradient force is crucial for surface winds. Other significant drivers are surface friction, horizontal advection, and vertical momentum transport, which interact in a balanced manner.
 
