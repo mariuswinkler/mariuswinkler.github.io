@@ -31,6 +31,6 @@ International Conference on Control of Self-Organizing Nonlinear Systems, Rostoc
 - Hackathon: [NextGems](https://nextgems-h2020.eu/) C2, Vienna, Austria, June 28 - July 03, 2022
 - Hackathon: [NextGems](https://nextgems-h2020.eu/) C1, Berlin, Germany, October 19 - 22, 2021
 - Hackathon: DYAMOND, Hamburg, Germany, July 14 - July 16, 2021
-- Dynamics of Coupled Oscillator Systems Workshop, Weierstrass Institute for Applied Analysis and Stochastics, Berlin, Germany, November 19-21, 2018
+- Workshop: Dynamics of Coupled Oscillator Systems, Weierstrass Institute for Applied Analysis and Stochastics, Berlin, Germany, November 19-21, 2018
 
 
