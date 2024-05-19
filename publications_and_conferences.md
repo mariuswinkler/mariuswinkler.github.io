@@ -8,8 +8,10 @@ title: "Publications and Conferences"
 - **Winkler, M.**, et al. (2019). „Relay synchronization in multiplex networks of discrete maps“. EPL, Bd. 126, Nr. 5, July 2019, S. 50004. [doi:10.1209/0295-5075/126/50004](https://iopscience.iop.org/article/10.1209/0295-5075/126/50004/pdf)
 
 **Talks**
-- Uncovering the Drivers of the Equatorial Ocean Surface Winds, Ocean Sciences Meeting, New Orleans, USA, Februray 18 - 23 2024
-- [What Drives Equatorial Boundary Layer Winds ?](https://www.gewexevents.org/wp-content/uploads/1000-WINKLER_Marius_PanGASS_2022_Thursday.pdf),  Pan-GASS, Monterey, USA, July 25 - 29 2022
+- Uncovering the Drivers of the Equatorial Ocean Surface Winds,<br>
+Ocean Sciences Meeting, New Orleans, USA, Februray 18 - 23 2024
+- [What Drives Equatorial Boundary Layer Winds ?](https://www.gewexevents.org/wp-content/uploads/1000-WINKLER_Marius_PanGASS_2022_Thursday.pdf),<br>
+Pan-GASS, Monterey, USA, July 25 - 29 2022
 
 **Posters**
 - [From Sea Surface Temperature to Equatorial Surface Winds](https://owncloud.gwdg.de/index.php/s/qCgP6jvWUkhrjX2),<br>
