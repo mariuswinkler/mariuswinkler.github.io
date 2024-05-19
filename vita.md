@@ -4,7 +4,7 @@ title: "CV"
 permalink: /cv
 ---
 <div style="text-align: right;">
-    <div style="width: 150px; height: 150px; overflow: hidden; border-radius: 50%; float: right;">
+    <div style="width: 175px; height: 175px; overflow: hidden; border-radius: 50%; float: right;">
         <img src="inputs/MW.jpeg" alt="Marius Winkler" style="width: 100%; height: 100%; object-fit: cover;">
     </div>
 </div>
