@@ -7,7 +7,7 @@ layout: default
 
 <figure>
     <video id="myVideo" style="width: 100%; height: auto; object-fit: cover;" controls autoplay>
-        <source src="inputs/SST_video_white_background_12_fps.mp4" type="video/mp4">
+        <source src="inputs/SST_video.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
     <figcaption style="background-color: #f2f2f2; padding: 5px;">
@@ -19,7 +19,7 @@ layout: default
 
 <script>
     document.getElementById('myVideo').addEventListener('loadedmetadata', function() {
-        this.currentTime = 18; // Set the starting point to 18 seconds
+        this.currentTime = 7; // Set the starting point to 18 seconds
     });
 </script>
 
