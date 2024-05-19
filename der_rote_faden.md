@@ -13,11 +13,11 @@ permalink: /der_rote_fade
 
 I arrived at the Max Planck Institute in Hamburg by a roundabout way.<br>
 Nature, our Earth, and the universe have always interested me. That's why I started studying physics, in order to understand what holds the world together at its core.<br>
-Physics is magnificent: armed with a toolbox of mathematics, physicists look out into the world and strive to comprehend and quantify what's happening out there.
+Physics is magnificent: armed with a toolbox of mathematics, physicists look out into the world and strive to comprehend and quantify what's happening out there.<br>
 That intrigued me.<br>
 That's what I wanted to do.<br>
 
-In Berlin, as part of my bachelor's thesis, I delved into complex networks governed by nonlinear dynamics. These complex networks aren't always visible to the naked eye, but they exist everywhere. For instance, in the human brain. During my master's thesis in Paris, as a member of a neuroscientific research group, I examined signal propagation and synchronization of neurons in the brain. Extreme and sudden synchronization can manifest as epilepsy, which afflicts many people.
+In Berlin, as part of my bachelor's thesis, I delved into complex networks governed by nonlinear dynamics. These complex networks aren't always visible to the naked eye, but they exist everywhere. For instance, in the human brain. During my master's thesis in Paris, as a member of a neuroscientific research group, I examined signal propagation and synchronization of neurons in the brain. Extreme and sudden synchronization can manifest as epilepsy, which afflicts many people.<br>
 Not only an exciting, but also incredibly important subject.
 
 After completing my master's thesis, I wanted to stay in science. That was clear.
