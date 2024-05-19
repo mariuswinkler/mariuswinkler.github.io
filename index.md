@@ -6,7 +6,7 @@ layout: default
 ---
 
 <figure>
-    <video id="myVideo" width="840" height="500" controls autoplay>
+    <video id="myVideo" style="width: 100%; height: auto; object-fit: cover;" controls autoplay>
         <source src="inputs/SST_video_white_background_12_fps.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
