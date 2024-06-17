@@ -23,6 +23,12 @@ layout: default
     });
 </script>
 
+<div style="text-align: right;">
+    <div style="width: 175px; height: 175px; overflow: hidden; border-radius: 50%; float: right;">
+        <img src="inputs/MW.jpeg" alt="Marius Winkler" style="width: 100%; height: 100%; object-fit: cover;">
+    </div>
+</div>
+
 Salut !
 
 I am Marius, an atmospheric physicist and currently engaged as a PhD student within the IMPRS at the Max Planck Institute for Meteorology.
