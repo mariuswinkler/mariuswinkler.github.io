@@ -3,7 +3,7 @@ layout: page
 title: "Publications and Conferences"
 ---
 <h3>Published</h3>
-- **Winkler, M.**, et al. (2025a): ["Uncovering the Drivers of the Equatorial Ocean Surface Winds"](https://ediss.sub.uni-hamburg.de/bitstream/ediss/11553/1/BzE_288_Winkler_for_WEB.pdf), <i>Reports on Earth System Science</i>, ISSN 1614-1199
+- **Winkler, M.**, et al. (2025a): "Uncovering the Drivers of the Equatorial Ocean Surface Winds", <i>Reports on Earth System Science</i>, [ISSN 1614-1199](https://ediss.sub.uni-hamburg.de/bitstream/ediss/11553/1/BzE_288_Winkler_for_WEB.pdf)
 - Hohenegger, C., **Winkler, M.**, et al. (2023). "ICON-Sapphire: simulating the components of the Earth system and their interactions at kilometer and subkilometer scales". <i>Geoscientific Model Development</i>, 16 (2), 779-811. [doi: 10.5194/gmd-16-779-2023](https://gmd.copernicus.org/articles/16/779/2023/)
 - **Winkler, M.**, et al. (2021). "Phase response approaches to neural activity models with distributed delay". <i>Biological Cybernetics</i>, Dezember 2021. [doi.org/10.1007/s00422-021-00910-9](https://link.springer.com/article/10.1007/s00422-021-00910-9)
 - **Winkler, M.**, et al. (2019). "Relay synchronization in multiplex networks of discrete maps". <i>Europhysics Letters</i>, Bd. 126, Nr. 5, July 2019, S. 50004. [doi:10.1209/0295-5075/126/50004](https://iopscience.iop.org/article/10.1209/0295-5075/126/50004/pdf)
