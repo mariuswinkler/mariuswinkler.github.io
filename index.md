@@ -6,7 +6,7 @@ layout: default
 ---
 
 <figure>
-    <video id="myVideo" style="width: 100%; height: auto; object-fit: cover;" controls autoplay>
+    <video id="myVideo" style="width: 60%; height: auto; object-fit: cover;" controls autoplay>
         <source src="inputs/Spherical_Windvideo_16_fps_transparent.webm" type="video/webm">
         Your browser does not support the video tag.
     </video>
