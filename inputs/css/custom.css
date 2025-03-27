@@ -1,0 +1,10 @@
+/* Color the header background */
+.site-header {
+  background-color: #014225;
+}
+
+/* Make header text and links white */
+.site-header a,
+.site-title {
+  color: white !important;
+}

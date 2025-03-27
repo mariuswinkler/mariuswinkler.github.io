@@ -1,0 +1,16 @@
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+.DS_Store
+vendor
+WINKLER_Marius_CV.aux
+WINKLER_Marius_CV.log
+WINKLER_Marius_CV.out
+WINKLER_Marius_CV.synctex.gz
+WINKLER_Marius_CV.tex
+WINKLER_Marius_CV.pdf
+MW.jpeg
+sailing_panorama.jpeg
+Spherical_Windvideo_16_fps_transparent.webm
+SST_video.mp4
