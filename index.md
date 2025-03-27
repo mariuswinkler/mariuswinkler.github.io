@@ -12,7 +12,7 @@ layout: default
             Your browser does not support the video tag.
         </video>
     </div>
-    <figcaption style="background-color: #f2f2f2; padding: 5px; max-width: 60%; margin: 0 auto;">
+    <figcaption style="background-color: #f2f2f2; padding: 5px; max-width: 100%; margin: 0 auto;">
         Surface winds (gray shading) interact dynamically with the Earth's surface—over land, they reveal orographic features, while over the ocean, they actively shape ocean dynamics. Sea surface temperature (color-coded) reaches a local minimum in the equatorial cold tongue regions, a signature of air-sea interaction.
     </figcaption>
 </figure>
