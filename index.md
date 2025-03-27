@@ -8,7 +8,7 @@ layout: default
 <figure>
     <div style="display: flex; justify-content: center;">
         <video id="myVideo" style="width: 60%; height: auto; object-fit: cover;" controls autoplay loop>
-            <source src="_inputs/Spherical_Windvideo_16_fps_transparent.webm" type="video/webm">
+            <source src="inputs/Spherical_Windvideo_16_fps_transparent.webm" type="video/webm">
             Your browser does not support the video tag.
         </video>
     </div>
@@ -19,7 +19,7 @@ layout: default
 
 <div style="text-align: right;">
     <div style="width: 175px; height: 175px; overflow: hidden; border-radius: 50%; float: right;">
-        <img src="_inputs/MW.jpeg" alt="Marius Winkler" style="width: 100%; height: 100%; object-fit: cover;">
+        <img src="inputs/MW.jpeg" alt="Marius Winkler" style="width: 100%; height: 100%; object-fit: cover;">
     </div>
 </div>
 
