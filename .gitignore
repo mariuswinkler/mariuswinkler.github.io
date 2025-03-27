@@ -3,3 +3,8 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+cv_main.aux
+cv_main.log
+cv_main.out
+cv_main.synctex.gz
+cv_main.tex
