@@ -30,10 +30,10 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # github_username:  mariuswinkler
 
 header_pages:
- - der_rote_faden.md
- - research.md
- - vita.md
- - publications_and_conferences.md
+  - der_rote_faden.md
+  - research.md
+  - vita.md
+  - publications_and_conferences.md
 
 # Build settings
 theme: minima
@@ -41,10 +41,9 @@ plugins:
   - jekyll-feed
 
 minima:
-skin: classic
-include:
-  - inputs/css/custom.css
-
+  skin: classic
+  include:
+    - inputs/css/custom.css
 
 # Exclude from processing.
 # The following items will not be processed, by default.
