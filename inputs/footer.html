@@ -1,0 +1,10 @@
+<footer class="site-footer">
+  <div class="footer-content" style="text-align: center;">
+    {% if site.email %}
+      <p><a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
+    {% endif %}
+    {% if site.description %}
+      <p>{{ site.description }}</p>
+    {% endif %}
+  </div>
+</footer>
