@@ -13,9 +13,7 @@ layout: default
         </video>
     </div>
     <figcaption style="background-color: #f2f2f2; padding: 5px; max-width: 60%; margin: 0 auto;">
-        Shown are daily means of sea surface temperature in the equatorial Pacific Ocean from the ICON-Sapphire output.
-        The darker, blue shades represent the formation of the equatorial cold tongue. This forms as part of the Bjerknes feedback cycle due to wind-driven upwelling at the equator.
-        Also look for the Tropical Instability Waves, these tentacle-like and important structures north and south of the cold tongue.
+        Surface winds (gray shading) interact dynamically with the Earth's surface—over land, they reveal orographic features, while over the ocean, they actively shape ocean dynamics. Sea surface temperature (color-coded) reaches a local minimum in the equatorial cold tongue regions, a signature of air-sea interaction.
     </figcaption>
 </figure>
 
@@ -35,5 +33,6 @@ Salut !
 
 I am Marius, an atmospheric physicist and currently engaged as a Postdoc at the Max Planck Institute for Meteorology.
 
-My research centers around equatorial dynamics. As a kitesurfer and sailor, I am particularly interested in surface winds and processes within the atmospheric boundary layer over the oceans.
-The equator is one of the warmest areas on our planet on an annual average. At the same time, there are wind-driven currents in the ocean that transport cold water masses to the surface where they interact with the warm atmosphere. We get a region with strong temperature gradients, which is a perfect startpoint for pressure gradients and resulting winds. <br>Exciting, isn't it ?
+My research centers on equatorial dynamics. As a kitesurfer and sailor, I’m particularly interested in surface winds and the processes within the atmospheric boundary layer over the oceans.
+The equator is one of the warmest regions on Earth on an annual average. At the same time, wind-driven ocean currents bring cold water masses to the surface, where they interact with the warm boundary layer. This interaction creates temperature gradients that lead to pressure gradients and drive boundary layer winds.
+Yet, the warm boundary layer also interacts with the overlying free troposphere and thus serves as an active, mediating layer that connects Earth’s surface with the higher atmosphere. <br>Exciting, isn't it ?
