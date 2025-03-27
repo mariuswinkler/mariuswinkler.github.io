@@ -1,0 +1,14 @@
+/* Custom header style */
+.site-header {
+    background-color: #014225;
+    color: white;
+  }
+  
+  .site-header a {
+    color: white !important;
+  }
+  
+  .site-title {
+    color: white !important;
+  }
+  

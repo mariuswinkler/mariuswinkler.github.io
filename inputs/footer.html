@@ -1,13 +1,10 @@
-<div class="footer-col-wrapper">
-    <div class="footer-col">
-      <p class="contact">
-        <a href="mailto:{{ site.email }}">{{ site.email }}</a>
-      </p>
-    </div>
-    <div class="footer-col">
-      <p class="description">
-        {{ site.description }}
-      </p>
-    </div>
+<footer class="site-footer">
+  <div class="footer-content" style="text-align: center;">
+    {% if site.email %}
+      <p><a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
+    {% endif %}
+    {% if site.description %}
+      <p>{{ site.description }}</p>
+    {% endif %}
   </div>
-  
+</footer>
