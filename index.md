@@ -7,7 +7,7 @@ layout: default
 
 <figure>
     <video id="myVideo" style="width: 100%; height: auto; object-fit: cover;" controls autoplay>
-        <source src="inputs/SST_video.mp4" type="video/mp4">
+        <source src="inputs/Spherical_Windvideo_16_fps_transparent.webm" type="video/webm">
         Your browser does not support the video tag.
     </video>
     <figcaption style="background-color: #f2f2f2; padding: 5px;">
@@ -31,7 +31,7 @@ layout: default
 
 Salut !
 
-I am Marius, an atmospheric physicist and currently engaged as a PhD student within the IMPRS at the Max Planck Institute for Meteorology.
+I am Marius, an atmospheric physicist and currently engaged as a Postdoc at the Max Planck Institute for Meteorology.
 
 My research centers around equatorial dynamics. As a kitesurfer and sailor, I am particularly interested in surface winds and processes within the atmospheric boundary layer over the oceans.
 The equator is one of the warmest areas on our planet on an annual average. At the same time, there are wind-driven currents in the ocean that transport cold water masses to the surface where they interact with the warm atmosphere. We get a region with strong temperature gradients, which is a perfect startpoint for pressure gradients and resulting winds. <br>Exciting, isn't it ?
