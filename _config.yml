@@ -18,7 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 
+title: Marius Winkler
+author: " "
 email: marius.winkler@mpimet.mpg.de
 description: Atmospheric physicist, currently engaged as a Postdoc at the Max Planck Institute for Meteorology, Hamburg.
 
@@ -31,7 +32,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 header_pages:
  - der_rote_faden.md
  - research.md
- - vita.md
+ - inputs/WINKLER_Marius_CV.pdf
  - publications_and_conferences.md
 
 # Build settings

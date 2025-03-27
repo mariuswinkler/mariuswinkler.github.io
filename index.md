@@ -17,12 +17,6 @@ layout: default
     </figcaption>
 </figure>
 
-<script>
-    document.getElementById('myVideo').addEventListener('loadedmetadata', function() {
-        this.currentTime = 7; // Set the starting point to 18 seconds
-    });
-</script>
-
 <div style="text-align: right;">
     <div style="width: 175px; height: 175px; overflow: hidden; border-radius: 50%; float: right;">
         <img src="inputs/MW.jpeg" alt="Marius Winkler" style="width: 100%; height: 100%; object-fit: cover;">

@@ -2,8 +2,6 @@
 layout: page
 title: "Publications and Conferences"
 ---
-<h2>Publications</h2>
-
 <h3>Published</h3>
 - **Winkler, M.**, et al. (2025a): ["Uncovering the Drivers of the Equatorial Ocean Surface Winds"](https://ediss.sub.uni-hamburg.de/bitstream/ediss/11553/1/BzE_288_Winkler_for_WEB.pdf), <i>Reports on Earth System Science</i>, ISSN 1614-1199
 - Hohenegger, C., **Winkler, M.**, et al. (2023). "ICON-Sapphire: simulating the components of the Earth system and their interactions at kilometer and subkilometer scales". <i>Geoscientific Model Development</i>, 16 (2), 779-811. [doi: 10.5194/gmd-16-779-2023](https://gmd.copernicus.org/articles/16/779/2023/)
@@ -11,13 +9,13 @@ title: "Publications and Conferences"
 - **Winkler, M.**, et al. (2019). "Relay synchronization in multiplex networks of discrete maps". <i>Europhysics Letters</i>, Bd. 126, Nr. 5, July 2019, S. 50004. [doi:10.1209/0295-5075/126/50004](https://iopscience.iop.org/article/10.1209/0295-5075/126/50004/pdf)
 
 <h3>Submitted</h3>
-- **Winkler, M.**, et al. (2025a): "Uncovering the Drivers of the Equatorial Ocean Surface Winds", submitted to <i>Quarterly Journal of the Royal Meteorological Society</i>
+- **Winkler, M.**, et al. (2025b): "Uncovering the Drivers of the Equatorial Ocean Surface Winds", submitted to <i>Quarterly Journal of the Royal Meteorological Society</i>
 - Segura H., **Winkler, M.**, et al. (2025a). "Global Storm-Resolving Models and the Double ITCZ Bias: Air-Surface Interaction Role for Convection in Light Wind Regimes", <i>submitted to Journal of Advances in Modeling Earth Systems</i>
 - Segura H., **Winkler, M.**, et al. (2025b). "NextGEMS: Entering the Era of Kilometre-Scale Earth System Modelling", submitted to <i>Geoscientific Model Development</i>
 
 <h3>In Preparation</h3>
-- **Winkler, M.**, et al. (2025b): "Atmospheric Radiosoundings from Ship and Island Platforms during the 2024 ORCESTRA Field Campaign"
-- **Winkler, M.**, et al. (2025c): "On the Role of the Surface Flux Parametrization in Tropical Convection under Low Wind Speed Regimes"
+- **Winkler, M.**, et al. (2025c): "Atmospheric Radiosoundings from Ship and Island Platforms during the 2024 ORCESTRA Field Campaign"
+- **Winkler, M.**, et al. (2025d): "On the Role of the Surface Flux Parametrization in Tropical Convection under Low Wind Speed Regimes"
 - Segura H., **Winkler, M.**, et al. (2025c). "Precipitation Accelerating Ocean Currents in a km-Scale Earth System Model"
 
 <h2>Talks</h2>
