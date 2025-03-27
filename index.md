@@ -5,17 +5,20 @@
 layout: default
 ---
 
-<figure>
-    <video id="myVideo" style="width: 60%; height: auto; object-fit: cover;" controls autoplay>
-        <source src="inputs/Spherical_Windvideo_16_fps_transparent.webm" type="video/webm">
-        Your browser does not support the video tag.
-    </video>
-    <figcaption style="background-color: #f2f2f2; padding: 5px;">
-        Shown are daily means of sea surface temperature in the equatorial Pacific Ocean from the ICON-Sapphire output.
-        The darker, blue shades represent the formation of the equatorial cold tongue. This forms as part of the Bjerknes feedback cycle due to wind-driven upwelling at the equator.
-        Also look for the Tropical Instability Waves, these tentacle-like and important structures north and south of the cold tongue.
-    </figcaption>
-</figure>
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
+    <figure style="text-align: center;">
+        <video id="myVideo" style="width: 60%; height: auto; object-fit: cover;" controls autoplay loop>
+            <source src="inputs/Spherical_Windvideo_16_fps_transparent.webm" type="video/webm">
+            Your browser does not support the video tag.
+        </video>
+        <figcaption style="background-color: #f2f2f2; padding: 5px; max-width: 60%;">
+            Shown are daily means of sea surface temperature in the equatorial Pacific Ocean from the ICON-Sapphire output.
+            The darker, blue shades represent the formation of the equatorial cold tongue. This forms as part of the Bjerknes feedback cycle due to wind-driven upwelling at the equator.
+            Also look for the Tropical Instability Waves, these tentacle-like and important structures north and south of the cold tongue.
+        </figcaption>
+    </figure>
+</div>
+
 
 <script>
     document.getElementById('myVideo').addEventListener('loadedmetadata', function() {
