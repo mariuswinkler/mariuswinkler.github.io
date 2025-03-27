@@ -1,10 +1,8 @@
-/* Color the header background */
-.site-header {
-  background-color: #014225;
+footer div {
+  text-align: left;
+  padding: 1em;
 }
 
-/* Make header text and links white */
-.site-header a,
-.site-title {
-  color: white !important;
+footer p {
+  margin: 0;
 }
