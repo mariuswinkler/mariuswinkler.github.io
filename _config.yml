@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-#title: Marius Winkler
+title: 
 email: marius.winkler@mpimet.mpg.de
 description: Atmospheric physicist, currently engaged as a Postdoc at the Max Planck Institute for Meteorology, Hamburg.
 
