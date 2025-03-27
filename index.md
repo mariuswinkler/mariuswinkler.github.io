@@ -13,7 +13,7 @@ layout: default
         </video>
     </div>
     <figcaption style="background-color: #f2f2f2; padding: 5px; max-width: 100%; margin: 0 auto;">
-        Surface winds (gray shading) interact dynamically with the Earth's surface—over land, they reveal orographic features, while over the ocean, they actively shape ocean dynamics. Sea surface temperature (color-coded) reaches a local minimum in the equatorial cold tongue regions, a signature of air-sea interaction.
+        Surface winds (gray shading) interact dynamically with the Earth's surface—over land, they reveal orographic features, while over the ocean, they actively shape ocean dynamics. Sea surface temperature (color-coded) reaches a local minimum in the equatorial cold tongue regions, a signature of air-sea interaction. Shown is output from an ICON simulation at 5 km resolution. Credit: MPI-M, DKRZ.
     </figcaption>
 </figure>
 
