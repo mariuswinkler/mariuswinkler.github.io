@@ -8,7 +8,7 @@ layout: default
 <figure>
     <div style="display: flex; justify-content: center;">
         <video id="myVideo" style="width: 60%; height: auto; object-fit: cover;" controls autoplay loop>
-            <source src="inputs/Spherical_Windvideo_24_fps_web.mp4" type="video/webm">
+            <source src="inputs/Spherical_Windvideo_24_fps_transparent_low.webm" type="video/webm">
             Your browser does not support the video tag.
         </video>
     </div>
