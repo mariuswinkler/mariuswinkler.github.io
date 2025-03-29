@@ -1,8 +1,15 @@
-footer div {
-  text-align: left;
-  padding: 1em;
+/* Header background color */
+.site-header {
+  background-color: #014225;
 }
 
-footer p {
-  margin: 0;
+/* Make all header links and title white */
+.site-header a,
+.site-header a:visited {
+  color: white;
+}
+
+/* Optional: Change hover color slightly */
+.site-header a:hover {
+  color: #a2e0c4; /* Light mint green as hover effect */
 }
