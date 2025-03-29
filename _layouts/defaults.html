@@ -1,12 +1,36 @@
-<header class="custom-header">
-  <div class="wrapper">
-    <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
-    <nav class="site-nav">
-      {% for page in site.pages %}
-        {% if page.path in site.header_pages %}
-          <a class="nav-link" href="{{ page.url | relative_url }}">{{ page.title }}</a>
-        {% endif %}
-      {% endfor %}
-    </nav>
-  </div>
-</header>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }} | {{ site.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+
+    {%- feed_meta -%}
+    {%- seo -%}
+  </head>
+  <body>
+    <header class="custom-header">
+      <div class="wrapper">
+        <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+        <nav class="site-nav">
+          {% for page in site.pages %}
+            {% if page.path in site.header_pages %}
+              <a class="nav-link" href="{{ page.url | relative_url }}">{{ page.title }}</a>
+            {% endif %}
+          {% endfor %}
+        </nav>
+      </div>
+    </header>    
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    <footer class="site-footer">
+      {% include footer.html %}
+    </footer>
+  </body>
+</html>
