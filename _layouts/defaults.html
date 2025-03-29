@@ -11,18 +11,17 @@
     {%- seo -%}
   </head>
   <body>
-    <header class="custom-header">
+    <header class="site-header" role="banner">
       <div class="wrapper">
-        <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+        <a class="site-title" rel="author" href="{{ '/' | relative_url }}">{{ site.title }}</a>
         <nav class="site-nav">
-          {% for page in site.pages %}
-            {% if page.path in site.header_pages %}
-              <a class="nav-link" href="{{ page.url | relative_url }}">{{ page.title }}</a>
-            {% endif %}
+          {% for page in site.header_pages %}
+            <a class="page-link" href="{{ page | relative_url }}">{{ page | split: '.' | first | replace: '_', ' ' | capitalize }}</a>
           {% endfor %}
         </nav>
       </div>
-    </header>    
+    </header>
+
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
         {{ content }}

@@ -1,34 +1,15 @@
-/* Green header with white text */
-.custom-header {
+/* Header background color */
+.site-header {
   background-color: #014225;
-  padding: 1em 0;
-  margin-bottom: 2em;
 }
 
-.custom-header .site-title {
+/* Make all header links and title white */
+.site-header a,
+.site-header a:visited {
   color: white;
-  font-size: 1.5em;
-  text-decoration: none;
-  margin-right: 2em;
 }
 
-.custom-header .site-nav {
-  display: inline-block;
-}
-
-.custom-header .nav-link {
-  color: white;
-  text-decoration: none;
-  margin-right: 1em;
-  font-weight: 500;
-}
-
-.custom-header .nav-link:hover {
-  color: #a2e0c4;
-}
-
-.wrapper {
-  max-width: 900px;
-  margin: 0 auto;
-  padding: 0 1em;
+/* Optional: Change hover color slightly */
+.site-header a:hover {
+  color: #a2e0c4; /* Light mint green as hover effect */
 }
