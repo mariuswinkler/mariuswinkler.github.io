@@ -43,7 +43,7 @@ plugins:
 minima:
   skin: classic
   include:
-    - _inputs/css/custom.css
+    - assets/css/custom.css
 
 # Exclude from processing.
 # The following items will not be processed, by default.
