@@ -1,14 +1,34 @@
-/* Strong override for header */
-header.site-header {
-  background-color: #014225 !important;
+/* Green header with white text */
+.custom-header {
+  background-color: #014225;
+  padding: 1em 0;
+  margin-bottom: 2em;
 }
 
-/* Override header link colors */
-header.site-header a,
-header.site-header a:visited {
-  color: white !important;
+.custom-header .site-title {
+  color: white;
+  font-size: 1.5em;
+  text-decoration: none;
+  margin-right: 2em;
 }
 
-header.site-header a:hover {
-  color: #a2e0c4 !important;
+.custom-header .site-nav {
+  display: inline-block;
+}
+
+.custom-header .nav-link {
+  color: white;
+  text-decoration: none;
+  margin-right: 1em;
+  font-weight: 500;
+}
+
+.custom-header .nav-link:hover {
+  color: #a2e0c4;
+}
+
+.wrapper {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 1em;
 }
