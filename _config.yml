@@ -36,7 +36,7 @@ header_pages:
   - publications_and_conferences.md
 
 # Build settings
-# theme: minima
+theme: minima
 plugins:
   - jekyll-feed
 

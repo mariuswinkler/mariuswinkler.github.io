@@ -1,19 +1,14 @@
-body {
-  background-color: pink !important;
+/* Strong override for header */
+header.site-header {
+  background-color: #014225 !important;
 }
 
-/* Header background color */
-.site-header {
-  background-color: #014225;
+/* Override header link colors */
+header.site-header a,
+header.site-header a:visited {
+  color: white !important;
 }
 
-/* Make all header links and title white */
-.site-header a,
-.site-header a:visited {
-  color: white;
-}
-
-/* Optional: Change hover color slightly */
-.site-header a:hover {
-  color: #a2e0c4; /* Light mint green as hover effect */
+header.site-header a:hover {
+  color: #a2e0c4 !important;
 }
