@@ -1,3 +1,7 @@
+body {
+  background-color: pink !important;
+}
+
 /* Header background color */
 .site-header {
   background-color: #014225;
