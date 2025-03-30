@@ -1,8 +1,7 @@
 # Site settings
 title: "Marius Winkler"
-description: "Atmospheric physicist"
-avatar: "/assets/images/MW.jpeg"
-url: "https://mariuswinkler.github.io"  # replace with custom domain if needed
+description: "Atmospheric Physicist"
+url: "https://mariuswinkler.github.io"  
 baseurl: ""  # keep empty for user sites
 
 # Use the Minimal Mistakes remote theme
@@ -19,8 +18,8 @@ plugins:
 # Author
 author:
   name: "Marius Winkler"
-  avatar: "/assets/images/avatar.png"
-  bio: "Postdoc, atmospheric physicist."
+  avatar: "/assets/images/MW.jpeg"
+  bio: "Atmospheric Physicist"
   links:
     - label: "GitHub"
       icon: "fab fa-github"
