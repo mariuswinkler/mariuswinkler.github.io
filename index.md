@@ -8,7 +8,7 @@ permalink: /
 <figure>
     <div style="display: flex; justify-content: center;">
         <video id="myVideo" style="width: 60%; height: auto; object-fit: cover;" controls autoplay loop>
-            <source src="assets/videos/Spherical_Windvideo_24_fps_transparent_low.webm" type="video/webm">
+            <source src="assets/videos/SST_video.mp4" type="video/mp4">
             Your browser does not support the video tag.
         </video>
     </div>

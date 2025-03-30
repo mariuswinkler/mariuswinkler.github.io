@@ -52,3 +52,7 @@ sass:
 include:
   - assets/css
 
+navigation: 
+  enabled: true
+
+
