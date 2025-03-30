@@ -3,7 +3,11 @@ layout: single
 title: "Research"
 permalink: /research/
 ---
-**Keywords:** Atmospheric Physics, Momentum Analysis, Air-Sea Interaction, Surface Winds, Equatorial Cold Tongue
+<div style="text-align: center; margin-bottom: 1em;">
+  <span style="font-size: 0.9em; font-style: italic; color: #555;">
+    Keywords: Atmospheric Physics, Momentum Analysis, Air–Sea Interaction, Surface Winds, Equatorial Cold Tongue
+  </span>
+</div>
 
 <figure>
     <img src="/assets/images/Equatorial_Winds.png" alt="Equatorial Surface Wind Pattern">
