@@ -5,7 +5,7 @@ permalink: /research/
 ---
 <div style="text-align: center; margin-bottom: 1em;">
   <span style="font-size: 0.9em; font-style: italic; color: #555;">
-    Keywords: Atmospheric Physics, Momentum Analysis, Air–Sea Interaction, Surface Winds, Equatorial Cold Tongue
+    Keywords: Boundary Layer, Surface Winds, Momentum Analysis, Air–Sea Interaction, High Resolution Climate Models, ORCESTRA
   </span>
 </div>
 
@@ -13,7 +13,6 @@ permalink: /research/
     <img src="/assets/images/Equatorial_Winds.png" alt="Equatorial Surface Wind Pattern">
     <figcaption style="background-color: #f2f2f2; padding: 5px;"> Wind Patterns along the Equator. At the top, region of interest. At the bottom, daily mean wind patterns averaged meridionally between -2° and 2° latitude, including land areas, based on a two-year ICON simulation. The Meridional Wind Pattern is shown in green, while the Zonal Wind Pattern is displayed in pink, with white indicating the transition between the two regimes. </figcaption>
 </figure>
-
 <section>
   <p>
     As part of my PhD research, I studied the dynamics of surface winds over the equatorial oceans.
@@ -36,12 +35,10 @@ permalink: /research/
   </p>
 </section>
 
-
 <figure>
     <img src="/assets/images/overturning.png" alt="Small scale triggers overturning circulation">
     <figcaption style="background-color: #f2f2f2; padding: 5px;">Surface Heat Flux Revives the Surface Pressure: An Example. Surface heat exchange (small, curly arrows, lower left) triggers convection, shifting the vertical temperature profile (red) toward higher temperatures and lowering the surface pressure ("L"). Gravity waves (black, curly arrows) redistribute mass and energy across the free troposphere, altering temperature profiles (blue) over non-convective areas and reinforcing higher surface pressure ("H") over already cold regions. This process ultimately supports stronger surface winds by enhancing the circulation pattern (blue arrows circularly arranged). </figcaption>
 </figure>
-
 <section>
   <p>
     From the study at the top of this page, we learned how important the pressure gradient force is — a force largely shaped by the underlying sea surface temperature (SST).

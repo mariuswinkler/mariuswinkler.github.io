@@ -12,23 +12,40 @@ toc: false
     <figcaption style="background-color: #f2f2f2; padding: 5px;">In 2017, I circumnavigated the Baltic Sea on an 11-week sailing trip. We didn't always manage to judge the surface winds over the sea well, as the calm in the picture shows. The guy on the port side of the Topcat Spitfire (built 1989) catamaran is me. We're taking a break from the paddling we had to start in order to reach land in time before the sun goes down. </figcaption>
 </figure>
 
-I arrived at the Max Planck Institute in Hamburg by a roundabout way.<br>
-Nature, our Earth, and the universe have always interested me. That's why I started studying physics, in order to understand what holds the world together at its core.<br>
-Physics is magnificent: armed with a toolbox of mathematics, physicists look out into the world and strive to comprehend and quantify what's happening out there.<br>
-That intrigued me.<br>
-That's what I wanted to do.<br>
+<section>
+  <p>
+    I arrived at the Max Planck Institute in Hamburg by a roundabout way. Nature, our Earth, and the universe have always fascinated me. That’s why I began studying physics — to understand what holds the world together at its core.
+  </p>
 
-In Berlin, as part of my bachelor's thesis, I delved into complex networks governed by nonlinear dynamics. These complex networks aren't always visible to the naked eye, but they exist everywhere. For instance, in the human brain. During my master's thesis in Paris, as a member of a neuroscientific research group, I examined signal propagation and synchronization of neurons in the brain. Extreme and sudden synchronization can manifest as epilepsy, which afflicts many people.<br>
-Not only an exciting, but also incredibly important subject.
+  <p>
+    Physics is magnificent: armed with a toolbox of mathematics, physicists look out into the world and strive to comprehend and quantify what’s happening out there. That intrigued me. That’s what I wanted to do.
+  </p>
 
-After completing my master's thesis, I wanted to stay in science. That was clear.
-But I wanted to understand processes observable with the naked eye. As a journeyman shoemaker, complex processes are aesthetically appealing to me. Earth's climate and our atmosphere represent colossal complex networks. Furthermore, Earth's climate is subject to numerous nonlinear dynamics, bringing us back to the beginning of my career.
+  <p>
+    In Berlin, during my bachelor’s thesis, I dove into the study of complex networks governed by nonlinear dynamics. These networks often remain invisible to the naked eye — but they’re everywhere. One of the most fascinating examples? The human brain.
+  </p>
 
-I am excited about many more years in the field of climate research !
+  <p>
+    For my master’s thesis in Paris, I joined a neuroscience research group and examined how signals propagate and synchronize in neural networks. When this synchronization becomes extreme and abrupt, it can manifest as epilepsy — a serious condition affecting many people. Not only an exciting topic, but one of real-world importance.
+  </p>
 
-P.S. If you're curious to hear me speak, you can watch this [video](https://vimeo.com/806272814) which is the promotion video of the IMPRS at the MPI in Hamburg. For the shoot I had to ride my bike early in the morning, right after sunrise, for several kilometer on deserted streets in the Hamburger Speicherstadt. It was fun!
+  <p>
+    After finishing my master’s, I knew I wanted to stay in science. That was clear. But I also wanted to understand processes that are visible to the naked eye.
+  </p>
 
+  <p>
+    As a journeyman shoemaker, I’ve always appreciated the beauty of well-structured, intricate processes. Earth’s climate and atmosphere are massive, living networks — full of feedbacks and nonlinear dynamics. And so, in a way, my path circled back to where it began.
+  </p>
 
+  <p>
+    I’m excited for many more years working at the intersection of observation, theory, and modeling — in the fascinating world of climate science.
+  </p>
+
+  <p style="margin-top: 2em; font-size: 0.9em;">
+    <strong>P.S.</strong> Curious to hear me speak? Check out the <a href="https://vimeo.com/806272814" target="_blank">promotion video</a> for the IMPRS at the MPI in Hamburg. For the shoot, I had to cycle through the deserted streets of Hamburg's Speicherstadt at sunrise — it was cold, surreal, and a lot of fun!
+  </p>
+
+</section>
 
 
 
