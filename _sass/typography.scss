@@ -2,18 +2,19 @@
 html {
   font-size: 14px;
 
-  @include breakpoint($medium) {
-    font-size: 15px;
-  }
-
-  @include breakpoint($large) {
+  @media (min-width: 600px) {
     font-size: 16px;
   }
 
-  @include breakpoint($x-large) {
+  @media (min-width: 800px) {
     font-size: 17px;
   }
+
+  @media (min-width: 1000px) {
+    font-size: 18px;
+  }
 }
+
 
 /* Paragraph text */
 p {
