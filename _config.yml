@@ -1,6 +1,7 @@
 # Site settings
 title: "Marius Winkler"
 description: "Atmospheric physicist"
+avatar: "/assets/images/MW.jpeg"
 url: "https://mariuswinkler.github.io"  # replace with custom domain if needed
 baseurl: ""  # keep empty for user sites
 
