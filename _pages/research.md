@@ -55,7 +55,7 @@ permalink: /research/
   </p>
 
   <p>
-    By comparing ICON to the standalone COARE algorithm, which is based on observational data from the TOGA-COARE field campaign in the early 1990s, we find that while ICON reasonably simulates the momentum exchange, it permits far too little heat exchange.
+    By comparing ICON to the standalone COARE algorithm, which is based on observational data from the <a href="https://journals.ametsoc.org/view/journals/bams/73/9/1520-0477_1992_073_1377_tctcor_2_0_co_2.xml" target="_blank">TOGA-COARE</a> field campaign in the early 1990s, we find that while ICON reasonably simulates the momentum exchange, it permits far too little heat exchange.
   </p>
 
   <p>
