@@ -26,11 +26,6 @@ But I wanted to understand processes observable with the naked eye. As a journey
 
 I am excited about many more years in the field of climate research !
 
-Follow me here:
-
-[Orcid ID](https://orcid.org/0000-0002-1280-292X)    
-[Google Scholar](https://scholar.google.com/citations?user=jUrnxisAAAAJ&hl=en)        
-
 P.S. If you're curious to hear me speak, you can watch this [video](https://vimeo.com/806272814) which is the promotion video of the IMPRS at the MPI in Hamburg. For the shoot I had to ride my bike early in the morning, right after sunrise, for several kilometer on deserted streets in the Hamburger Speicherstadt. It was fun!
 
 
