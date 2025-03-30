@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Publications and Conferences"
-permalink: /publications_and_conferences/
+title: "Scientific Contributions"
+permalink: /scientific_contributions/
 ---
 <h3>Published</h3>
 - **Winkler, M.**, et al. (2025a): "Uncovering the Drivers of the Equatorial Ocean Surface Winds", <i>Reports on Earth System Science</i>, [ISSN 1614-1199](https://ediss.sub.uni-hamburg.de/bitstream/ediss/11553/1/BzE_288_Winkler_for_WEB.pdf)
