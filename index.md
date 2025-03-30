@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: ""
 layout: single
 author_profile: false
 permalink: /
@@ -7,7 +7,7 @@ permalink: /
 
 <figure>
     <div style="display: flex; justify-content: center;">
-        <video id="myVideo" style="width: 60%; height: auto; object-fit: cover;" controls autoplay loop>
+        <video id="myVideo" style="width: 80%; height: auto; object-fit: cover;" controls autoplay loop>
             <source src="assets/videos/Video_Zoom=8_DPI=200_FIGSIZE=6_FPS=24.mp4" type="video/mp4">
             Your browser does not support the video tag.
         </video>
