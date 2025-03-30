@@ -22,12 +22,21 @@
 .author__avatar {
   width: 160px !important;
   height: 160px !important;
-  border: 2px solid red; /* 🟥 Debugging */
+  padding: 0 !important;
+  margin: 0 auto !important;
+  border: 2px solid red; /* 🔴 Debugging border */
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .author__avatar img {
   width: 100% !important;
-  height: auto !important;
+  height: 100% !important;
+  object-fit: cover !important;
   border-radius: 50%;
+  padding: 0 !important;
+  margin: 0 !important;
+  display: block;
 }
 
