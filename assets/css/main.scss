@@ -1,10 +1,18 @@
 ---
-# this ensures Jekyll reads the file to be transformed into CSS later
-# only Main files contain this front matter, not partials.
+# Main SCSS file
 ---
 
-@import "typography";
+@charset "utf-8";
+
+// 1. Your custom variable overrides
 @import "variables";
+
+// 2. Theme (which will now use your overrides)
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
+
+// 3. Typography tweaks or layout
+@import "typography";
 
 .content {
   width: 45rem;
