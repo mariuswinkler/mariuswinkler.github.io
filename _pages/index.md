@@ -7,7 +7,7 @@ permalink: /
 <div style="margin-top: -4rem;">
   <figure>
     <div style="display: flex; justify-content: center;">
-      <video id="myVideo" style="width: 80%; height: auto; object-fit: cover;" controls autoplay loop>
+      <video id="myVideo" style="width: 70%; height: auto; object-fit: cover;" controls autoplay loop>
         <source src="/assets/videos/Video_Zoom=8_DPI=300_FIGSIZE=6_FPS=24.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
