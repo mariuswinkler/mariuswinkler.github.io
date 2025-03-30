@@ -37,7 +37,7 @@ permalink: /research/
 
 <figure>
     <img src="/assets/images/overturning.png" alt="Small scale triggers overturning circulation">
-    <figcaption style="background-color: #f2f2f2; padding: 5px;">Surface heat flux revives surface pressure: an illustrative example. Surface heat exchange (small curly arrows, lower left) triggers convection, shifting the vertical temperature profile (red) toward higher temperatures and lowering surface pressure ("L"). Gravity waves (black curly arrows) redistribute mass and energy across the free troposphere, modifying temperature profiles (blue) over non-convective regions and reinforcing higher surface pressure ("H") over colder areas. This process ultimately strengthens surface winds by enhancing the circulation pattern (blue circular arrows). </figcaption>
+    <figcaption style="background-color: #f2f2f2; padding: 5px;">Surface heat flux revives surface pressure: an illustrative example. Surface heat exchange (small curly arrows, lower left) triggers convection, shifting the vertical temperature profile (red) toward higher temperatures and lowering surface pressure ("L"). Gravity waves (black curly arrows) redistribute mass and energy across the free troposphere, modifying temperature profiles (blue) over non-convective regions and reinforcing higher surface pressure ("H") over colder areas. This process ultimately strengthens surface winds by enhancing the circulation pattern (blue circular arrows). Visualization: Yvonne Schrader. </figcaption>
 </figure>
 <section>
   <p>
@@ -65,7 +65,7 @@ permalink: /research/
 
 <figure>
     <img src="/assets/images/BCO_Action.png" alt="BCO action">
-    <figcaption style="background-color: #f2f2f2; padding: 5px;">Launching radiosondes during the ORCESTRA field campaign 2024 shown here during a BCO outreach event with local students (left) at the <a href="https://barbados.mpimet.mpg.de/" target="_blank">Barbados Cloud Observatory</a> at Deebles Point (right). </figcaption>
+    <figcaption style="background-color: #f2f2f2; padding: 5px;">Launching radiosondes during the ORCESTRA field campaign 2024 shown here during a BCO outreach event with local students (left, credit: Nina Robbins Blanch) at the <a href="https://barbados.mpimet.mpg.de/" target="_blank">Barbados Cloud Observatory</a> at Deebles Point (right). </figcaption>
 </figure>
 
 <section>
