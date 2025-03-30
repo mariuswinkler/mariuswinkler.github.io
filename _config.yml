@@ -51,6 +51,7 @@ sass:
 
 include:
   - assets/css
+  - _pages
 
 navigation: 
   enabled: true
