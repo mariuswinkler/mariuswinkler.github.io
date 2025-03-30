@@ -1,0 +1,22 @@
+body {
+    font-size: 16px; /* Default is ~18px — adjust as needed */
+  }
+  
+  .author__avatar {
+    width: 160px;
+    height: 160px;
+    object-fit: cover;
+  }
+  
+  .site-title {
+    color: #014225;
+  }
+  
+  .nav__list .nav__item a {
+    color: #014225;
+  }
+  
+  .nav__list .nav__item a:hover {
+    text-decoration: underline;
+  }
+  

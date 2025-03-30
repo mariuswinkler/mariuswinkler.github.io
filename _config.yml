@@ -21,15 +21,22 @@ author:
   avatar: "/assets/images/MW.jpeg"
   bio: "Atmospheric Physicist"
   links:
+    - label: "MPI-M, Hamburg, Germany"
+      icon: "fas fa-map-marker-alt"
+      url: "https://mpimet.mpg.de"
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:marius.winkler@mpimet.mpg.de"
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/mariuswinkler"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/marius-winkler-2828121b4/"
-    - label: "Scholar"
+    - label: "Google Scholar"
       icon: "ai ai-google-scholar"
       url: "https://scholar.google.com/citations?user=jUrnxisAAAAJ&hl=en"
+
 
 # Layout defaults
 defaults:
@@ -39,7 +46,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      toc: true
+      toc: false
 
 # Build settings
 markdown: kramdown
