@@ -6,3 +6,27 @@
 @import "typography";
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes";
+
+
+.author__avatar {
+  display: table-cell;
+  vertical-align: top;
+  width: 120px; // customize as you like
+  height: 120px;
+
+  @include breakpoint($large) {
+    display: block;
+    width: auto;
+    height: auto;
+  }
+
+  img {
+    max-width: 175px; // makes the image scale within the avatar box
+    border-radius: 50%;
+
+    @include breakpoint($large) {
+      padding: 5px;
+      border: 1px solid $border-color;
+    }
+  }
+}
