@@ -44,8 +44,8 @@ author:
 # Layout defaults
 defaults:
   - scope:
-      path: ""
-      type: "pages"
+      path: "_pages"
+      type: ""
     values:
       layout: single
       author_profile: true
