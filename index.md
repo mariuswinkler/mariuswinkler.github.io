@@ -5,7 +5,7 @@ author_profile: true
 permalink: /
 ---
 
-<div style="margin-top: -1rem;">
+<div style="margin-top: -4rem;">
   <figure>
     <div style="display: flex; justify-content: center;">
       <video id="myVideo" style="width: 80%; height: auto; object-fit: cover;" controls autoplay loop>
