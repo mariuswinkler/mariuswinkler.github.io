@@ -1,7 +1,9 @@
 ---
-layout: page
+layout: single
 title: "Research"
-permalink: /Research
+permalink: /research
+toc: true
+author_profile: true
 ---
 
 <p align="center"><strong>Equatorial Boundary Layer Winds</strong></p>
