@@ -1,6 +1,7 @@
-body {
-    font-size: 10px; /* Default is ~18px — adjust as needed */
+body, .page__content {
+    font-size: 15px;
   }
+  
   
   .author__avatar {
     width: 160px;

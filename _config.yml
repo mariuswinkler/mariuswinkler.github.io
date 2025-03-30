@@ -21,7 +21,7 @@ author:
   avatar: "/assets/images/MW.jpeg"
   bio: "Atmospheric Physicist"
   links:
-    - label: "MPI-, Hamburg, Germany"
+    - label: "MPI-M, Hamburg, Germany"
       icon: "fas fa-map-marker-alt"
       url: "https://mpimet.mpg.de"
     - label: "Email"
