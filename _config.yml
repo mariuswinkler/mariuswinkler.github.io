@@ -41,6 +41,7 @@ defaults:
       layout: single
       author_profile: true
       toc: true
+      custom_head: custom-head
 
 # Build settings
 markdown: kramdown
