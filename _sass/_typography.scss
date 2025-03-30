@@ -1,6 +1,6 @@
 /* Override base font size */
 html {
-  font-size: 14px;
+  font-size: 24px;
 
   @media (min-width: 600px) {
     font-size: 16px;
@@ -38,11 +38,4 @@ h3 {
 
 h4 {
   font-size: 1.1rem;
-}
-
-/* Avatar size override */
-.author__avatar {
-  width: 160px;
-  height: 160px;
-  object-fit: cover;
 }
