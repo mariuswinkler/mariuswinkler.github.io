@@ -17,12 +17,6 @@ permalink: /
     </figcaption>
 </figure>
 
-<div style="text-align: right;">
-    <div style="width: 175px; height: 175px; overflow: hidden; border-radius: 50%; float: right;">
-        <img src="assets/images/MW.jpeg" alt="Marius Winkler" style="width: 100%; height: 100%; object-fit: cover;">
-    </div>
-</div>
-
 Salut !
 
 I am Marius, an atmospheric physicist and currently engaged as a Postdoc at the Max Planck Institute for Meteorology.
