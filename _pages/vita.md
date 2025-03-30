@@ -14,7 +14,7 @@ In September 2024, I took part in the ORCESTRA field campaign at the Barbados Cl
 
 <figure>
     <img src="/assets/images/BCO.jpeg" alt="BCO">
-    <figcaption style="background-color: #f2f2f2; padding: 5px;">In 2017, I circumnavigated the Baltic Sea on an 11-week sailing trip. We didn't always manage to judge the surface winds over the sea well, as the calm in the picture shows. The guy on the port side of the Topcat Spitfire (built 1989) catamaran is me. We're taking a break from the paddling we had to start in order to reach land in time before the sun goes down. </figcaption>
+    <figcaption style="background-color: #f2f2f2; padding: 5px;">Launching radiosondes from BCO on Barbados during the ORECSTRA field campaign 2024. </figcaption>
 </figure>
 
 
