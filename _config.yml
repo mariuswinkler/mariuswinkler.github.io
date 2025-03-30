@@ -11,11 +11,13 @@ theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "default" # or "air", "contrast", etc.
 
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-include-cache
   - jekyll-archives
+
 
 author:
   name: "Marius Winkler"
