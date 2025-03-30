@@ -14,7 +14,7 @@ toc: false
 
 <section>
   <p>
-    I arrived at the Max Planck Institute in Hamburg by a roundabout way. Nature, our Earth, and the universe have always fascinated me. That’s why I began studying physics — to understand what holds the world together at its core.
+    I arrived at the Max Planck Institute in Hamburg by a roundabout way. Nature, our Earth, and the universe have always fascinated me. That’s why I began studying physics: to understand what holds the world together at its core.
   </p>
 
   <p>
@@ -22,15 +22,15 @@ toc: false
   </p>
 
   <p>
-    In Berlin, during my bachelor’s thesis, I dove into the study of complex networks governed by nonlinear dynamics. These networks often remain invisible to the naked eye — but they’re everywhere. One of the most fascinating examples? The human brain.
+    In Berlin, during my bachelor’s thesis, I dove into the study of complex networks governed by nonlinear dynamics. These networks often remain invisible to the naked eye although they're everywhere. One of the most fascinating examples? The human brain.
   </p>
 
   <p>
-    For my master’s thesis in Paris, I joined a neuroscience research group and examined how signals propagate and synchronize in neural networks. When this synchronization becomes extreme and abrupt, it can manifest as epilepsy — a serious condition affecting many people. Not only an exciting topic, but one of real-world importance.
+    For my master’s thesis in Paris, I joined a neuroscience research group and examined how signals propagate and synchronize in neural networks. When this synchronization becomes extreme and abrupt, it can manifest as epilepsy which is a serious condition affecting many people. Not only an exciting, but also incredibly important subject.
   </p>
 
   <p>
-    After finishing my master’s, I knew I wanted to stay in science. That was clear. But I also wanted to understand processes that are visible to the naked eye. As a journeyman shoemaker, I’ve always appreciated the beauty of well-structured, intricate processes. Earth’s climate and atmosphere are massive, living networks — full of feedbacks and nonlinear dynamics. And so, in a way, my path circled back to where it began.
+    After finishing my master’s, I knew I wanted to stay in science. That was clear. But I also wanted to understand processes that are visible to the naked eye. As a journeyman shoemaker, I've always appreciated the beauty of well-structured, intricate processes. Earth’s climate and atmosphere are massive, living networks full of feedbacks and nonlinear dynamics. And so, in a way, my path circled back to where it began.
   </p>
 
   <p>
@@ -42,6 +42,8 @@ toc: false
   </p>
 
 </section>
+
+
 
 
 
