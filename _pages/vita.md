@@ -16,7 +16,7 @@ In September 2024, I took part in the ORCESTRA field campaign at the Barbados Cl
 
 <figure>
     <img src="/assets/images/BCO.jpeg" alt="BCO">
-    <figcaption style="background-color: #f2f2f2; padding: 5px;">Launching radiosondes from BCO on Barbados during the ORECSTRA field campaign 2024. </figcaption>
+    <figcaption style="background-color: #f2f2f2; padding: 5px;">Preparing a radiosonde for launch just after sunrise at the Barbados Cloud Observatory during the ORCESTRA field campaign 2024 with a stunning view across the Atlantic. </figcaption>
 </figure>
 
 
