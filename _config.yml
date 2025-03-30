@@ -21,9 +21,12 @@ author:
   avatar: "/assets/images/MW.jpeg"
   bio: "Physicist"
   links:
-    - label: "Max Planck Institute for Meteorology,<br>Hamburg, Germany"
+    - label: "Max Planck Institute for Meteorology"
       icon: "fas fa-map-marker-alt"
       url: "https://mpimet.mpg.de"
+    - label: "Hamburg, Germany"
+      icon: "fas fa-map-pin"
+      url: ""
     - label: "Email"
       icon: "fas fa-envelope"
       url: "mailto:marius.winkler@mpimet.mpg.de"
