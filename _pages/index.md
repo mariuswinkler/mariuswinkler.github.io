@@ -18,9 +18,7 @@ permalink: /
   </figure>
 </div>
 
-Salut !
-
-I am Marius, an atmospheric physicist and currently engaged as a Postdoc at the Max Planck Institute for Meteorology.
+Salut ! I am Marius, an atmospheric physicist and currently engaged as a Postdoc at the Max Planck Institute for Meteorology.
 
 My research centers on equatorial dynamics. As a kitesurfer and sailor, I’m particularly interested in surface winds and the processes within the atmospheric boundary layer over the oceans.
 The equator is one of the warmest regions on Earth on an annual average. At the same time, wind-driven ocean currents bring cold water masses to the surface, where they interact with the warm boundary layer. This interaction creates temperature gradients that lead to pressure gradients and drive boundary layer winds.
