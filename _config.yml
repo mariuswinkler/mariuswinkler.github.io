@@ -26,8 +26,8 @@ description: Atmospheric physicist, currently engaged as a Postdoc at the Max Pl
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-github_username: https://github.com/mariuswinkler
-linkedin_username: https://www.linkedin.com/in/marius-winkler-2828121b4/
+github_username: mariuswinkler
+linkedin_username: marius-winkler-2828121b4
 scholar_url: https://scholar.google.com/citations?user=jUrnxisAAAAJ&hl=en
 
 header_pages:

@@ -9,6 +9,13 @@
 
     {%- feed_meta -%}
     {%- seo -%}
+
+    <!-- Font Awesome for GitHub, LinkedIn icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+    <!-- Academicons for Google Scholar icon -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.3/css/academicons.min.css">
+
   </head>
   <body>
     <header class="site-header" role="banner">
@@ -30,6 +37,7 @@
 
     <footer class="site-footer">
       {% include footer.html %}
+      {% include social.html %}
     </footer>
   </body>
 </html>
