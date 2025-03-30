@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Research"
-permalink: /research
+permalink: /research/
 ---
 
 <p align="center"><strong>Equatorial Boundary Layer Winds</strong></p>

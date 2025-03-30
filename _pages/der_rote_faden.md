@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Der Rote Faden"
-permalink: /der_rote_faden
+permalink: /der_rote_faden/
 ---
 <span style="font-size: 0.7em; font-style: normal; font-weight: normal;">
     "Der rote Faden" is a German idiom which refers to a common theme or thread that runs through a story (or a CV).
