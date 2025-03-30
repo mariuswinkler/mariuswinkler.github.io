@@ -1,23 +1,37 @@
-body, .page__content {
-    font-size: 15px;
-  }
-  
-  
-  .author__avatar {
-    width: 160px;
-    height: 160px;
+/* Smaller base font size */
+html,
+body,
+.page__content {
+  font-size: 15px !important;
+}
+
+/* Larger avatar image */
+.author__avatar {
+    width: 160px !important;
+    height: 160px !important;
     object-fit: cover;
   }
   
-  .site-title {
-    color: #014225;
-  }
-  
-  .nav__list .nav__item a {
-    color: #014225;
-  }
-  
-  .nav__list .nav__item a:hover {
-    text-decoration: underline;
-  }
-  
+
+/* Optional: smaller headings */
+.page__content h1 {
+  font-size: 1.8em;
+}
+
+.page__content h2 {
+  font-size: 1.4em;
+}
+
+.page__content h3 {
+  font-size: 1.2em;
+}
+
+/* Green header styling */
+.site-title,
+.nav__list .nav__item a {
+  color: #014225 !important;
+}
+
+.nav__list .nav__item a:hover {
+  text-decoration: underline;
+}
