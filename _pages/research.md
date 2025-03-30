@@ -11,7 +11,7 @@ permalink: /research/
 
 <figure>
     <img src="/assets/images/Equatorial_Winds.png" alt="Equatorial Surface Wind Pattern">
-    <figcaption style="background-color: #f2f2f2; padding: 5px;"> Wind Patterns along the Equator. At the top, region of interest. At the bottom, daily mean wind patterns averaged meridionally between -2° and 2° latitude, including land areas, based on a two-year ICON simulation. The Meridional Wind Pattern is shown in green, while the Zonal Wind Pattern is displayed in pink, with white indicating the transition between the two regimes. </figcaption>
+    <figcaption style="background-color: #f2f2f2; padding: 5px;"> Wind patterns along the equator. Top: Equatorial region of interest. Bottom: Daily mean wind patterns, meridionally averaged between 2°S and 2°N (including land areas), based on a two-year ICON simulation. Meridional wind components are shown in green, zonal components in pink, with white indicating the transition between the two regimes. </figcaption>
 </figure>
 <section>
   <p>
@@ -37,7 +37,7 @@ permalink: /research/
 
 <figure>
     <img src="/assets/images/overturning.png" alt="Small scale triggers overturning circulation">
-    <figcaption style="background-color: #f2f2f2; padding: 5px;">Surface Heat Flux Revives the Surface Pressure: An Example. Surface heat exchange (small, curly arrows, lower left) triggers convection, shifting the vertical temperature profile (red) toward higher temperatures and lowering the surface pressure ("L"). Gravity waves (black, curly arrows) redistribute mass and energy across the free troposphere, altering temperature profiles (blue) over non-convective areas and reinforcing higher surface pressure ("H") over already cold regions. This process ultimately supports stronger surface winds by enhancing the circulation pattern (blue arrows circularly arranged). </figcaption>
+    <figcaption style="background-color: #f2f2f2; padding: 5px;">Surface heat flux revives surface pressure: an illustrative example. Surface heat exchange (small curly arrows, lower left) triggers convection, shifting the vertical temperature profile (red) toward higher temperatures and lowering surface pressure ("L"). Gravity waves (black curly arrows) redistribute mass and energy across the free troposphere, modifying temperature profiles (blue) over non-convective regions and reinforcing higher surface pressure ("H") over colder areas. This process ultimately strengthens surface winds by enhancing the circulation pattern (blue circular arrows). </figcaption>
 </figure>
 <section>
   <p>
