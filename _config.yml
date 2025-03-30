@@ -21,12 +21,6 @@ author:
   avatar: "/assets/images/MW.jpeg"
   bio: "Atmospheric Physicist"
   links:
-    - label: "MPI-M, Hamburg, Germany"
-      icon: "fas fa-map-marker-alt"
-      url: "https://mpimet.mpg.de"
-    - label: "Email"
-      icon: "fas fa-envelope"
-      url: "mailto:marius.winkler@mpimet.mpg.de"
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/mariuswinkler"
