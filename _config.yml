@@ -19,7 +19,7 @@ plugins:
 author:
   name: "Marius Winkler"
   avatar: "/assets/images/MW.jpeg"
-  bio: "Atmospheric Physicist"
+  bio: "Physicist"
   links:
     - label: "MPI-M, Hamburg, Germany"
       icon: "fas fa-map-marker-alt"
