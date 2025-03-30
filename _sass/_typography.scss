@@ -1,19 +1,10 @@
 /* Override base font size */
-html {
-  font-size: 24px;
-
-  @media (min-width: 600px) {
-    font-size: 16px;
-  }
-
-  @media (min-width: 800px) {
-    font-size: 17px;
-  }
-
-  @media (min-width: 1000px) {
-    font-size: 18px;
-  }
-}
+// Instead just do this for headings if you like:
+h1 { font-size: $type-size-1; }
+h2 { font-size: $type-size-2; }
+h3 { font-size: $type-size-3; }
+h4 { font-size: $type-size-4; }
+p  { font-size: $type-size-5; line-height: 1.6; }
 
 /* Paragraph text */
 p {

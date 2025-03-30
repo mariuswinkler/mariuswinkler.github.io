@@ -19,28 +19,9 @@
   margin: 0 auto;
 }
 
-@media (min-width: 220em) {
+.author__avatar {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
 
-  .author__avatar {
-    display: table-cell;
-    vertical-align: top;
-    width: 200px;
-    height: 200px;
-  
-    @include breakpoint($large) {
-      display: block;
-      width: auto;
-      height: auto;
-    }
-  
-    img {
-      max-width: 175px;
-      border-radius: 50%;
-  
-      @include breakpoint($large) {
-        padding: 5px;
-        border: 1px solid $border-color;
-      }
-    }
-  }
-  }
