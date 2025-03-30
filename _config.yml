@@ -48,7 +48,15 @@ defaults:
       author_profile: true
       toc: false
       custom_head: custom_head
-
+  - scope:
+      path: ""
+      type: ""
+    values:
+      layout: single
+      author_profile: true
+      toc: false
+      custom_head: custom_head
+      
 # Build settings
 markdown: kramdown
 highlighter: rouge
