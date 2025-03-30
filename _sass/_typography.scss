@@ -32,21 +32,25 @@ h2 { font-size: 1.6em; }
 h3 { font-size: 1.3em; }
 h4 { font-size: 1.1em; }
 
-.sidebar .author__avatar {
-  width: 240px !important;
-  height: 240px !important;
-  border: 2px solid red; // for debug
-  margin: 0 auto 1rem auto !important;
-  padding: 0 !important;
-  display: flex !important;
-  justify-content: center;
-  align-items: center;
-}
+.author__avatar {
+  display: table-cell;
+  vertical-align: top;
+  width: 120px; // customize as you like
+  height: 120px;
 
-.sidebar .author__avatar img {
-  width: 100% !important;
-  height: 100% !important;
-  object-fit: cover !important;
-  border-radius: 50% !important;
-  display: block;
+  @include breakpoint($large) {
+    display: block;
+    width: auto;
+    height: auto;
+  }
+
+  img {
+    max-width: 175px; // makes the image scale within the avatar box
+    border-radius: 50%;
+
+    @include breakpoint($large) {
+      padding: 5px;
+      border: 1px solid $border-color;
+    }
+  }
 }
