@@ -1,38 +1,11 @@
-@charset "utf-8";
+---
+# this ensures Jekyll reads the file to be transformed into CSS later
+# only Main files contain this front matter, not partials.
+---
 
-// Import the selected skin (e.g., default, contrast, dark, etc.)
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "typography";
 
-// Import core Minimal Mistakes styles
-@import "minimal-mistakes";
-
-// ✅ Load Academicons for Google Scholar icon
-@import url("https://cdn.jsdelivr.net/npm/academicons@1.9.3/css/academicons.min.css");
-
-// ✅ Global font size override
-html {
-  font-size: 14px;
-
-  @include breakpoint($medium) {
-    font-size: 16px;
-  }
-
-  @include breakpoint($large) {
-    font-size: 17px;
-  }
-
-  @include breakpoint($x-large) {
-    font-size: 18px;
-  }
-}
-
-// ✅ Avatar override
-.author__avatar {
-  width: 160px;
-  height: 160px;
-  object-fit: cover;
-}
-
-body {
-  background-color: pink;
+.content {
+  width: 45rem;
+  margin: 0 auto;
 }
