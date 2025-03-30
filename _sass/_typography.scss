@@ -32,20 +32,21 @@ h2 { font-size: 1.6em; }
 h3 { font-size: 1.3em; }
 h4 { font-size: 1.1em; }
 
-/* Optional: override avatar size with debug border */
-.author__avatar {
-  width: 240px;      // 👈 wider box
-  height: 240px;     // 👈 same height = square
-  border: 1px solid red; // for debugging
-  display: flex;
-  align-items: center;
+.sidebar .author__avatar {
+  width: 240px !important;
+  height: 240px !important;
+  border: 2px solid red; // for debug
+  margin: 0 auto 1rem auto !important;
+  padding: 0 !important;
+  display: flex !important;
   justify-content: center;
-  margin-bottom: 1rem;
+  align-items: center;
 }
 
-.author__avatar img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;  // 👈 fills it fully, no white margins
-  border-radius: 50%; // 👈 if you want a round image
+.sidebar .author__avatar img {
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: cover !important;
+  border-radius: 50% !important;
+  display: block;
 }
