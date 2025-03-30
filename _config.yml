@@ -34,7 +34,7 @@ author:
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/marius-winkler-2828121b4/"
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-scholar" #icon: "fas fa-graduation-cap"
+      icon: "fas fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=your_google_scholar_id"
     - label: "ORCID"
       icon: "fab fa-orcid"
