@@ -9,7 +9,7 @@ Before my Ph.D., I studied theoretical physics at the École Normale Supérieure
 
 In September 2024, I took part in the ORCESTRA field campaign at the Barbados Cloud Observatory as a field scientist, where I coordinated atmospheric observations and led the radiosonde launch team on Barbadis. Since 2021, I have also contributed to science communication as a member of the institute’s social media team, helping to share climate research with broader audiences.
 
-<a href="/inputs/CV/WINKLER_Marius_CV.pdf" target="_blank" download class="button">📄 Download CV</a>
+<a href="/assets/CV/WINKLER_Marius_CV.pdf" target="_blank" download class="button">📄 Download CV</a>
 
 <!-- [Download long CV (PDF)](/inputs/CV/WINKLER_Marius_CV.pdf){:download} -->
 
