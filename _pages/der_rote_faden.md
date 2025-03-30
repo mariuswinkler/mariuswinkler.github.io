@@ -30,11 +30,7 @@ toc: false
   </p>
 
   <p>
-    After finishing my master’s, I knew I wanted to stay in science. That was clear. But I also wanted to understand processes that are visible to the naked eye.
-  </p>
-
-  <p>
-    As a journeyman shoemaker, I’ve always appreciated the beauty of well-structured, intricate processes. Earth’s climate and atmosphere are massive, living networks — full of feedbacks and nonlinear dynamics. And so, in a way, my path circled back to where it began.
+    After finishing my master’s, I knew I wanted to stay in science. That was clear. But I also wanted to understand processes that are visible to the naked eye. As a journeyman shoemaker, I’ve always appreciated the beauty of well-structured, intricate processes. Earth’s climate and atmosphere are massive, living networks — full of feedbacks and nonlinear dynamics. And so, in a way, my path circled back to where it began.
   </p>
 
   <p>
