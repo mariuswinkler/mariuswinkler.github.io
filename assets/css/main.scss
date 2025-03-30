@@ -19,8 +19,15 @@
   margin: 0 auto;
 }
 
+.author__avatar {
+  width: 160px !important;
+  height: 160px !important;
+  border: 2px solid red; /* 🟥 Debugging */
+}
+
 .author__avatar img {
   width: 100% !important;
   height: auto !important;
   border-radius: 50%;
 }
+
