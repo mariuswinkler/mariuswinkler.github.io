@@ -2,12 +2,12 @@
 
 /* Base font settings */
 html {
-  font-size: 12px;  // adjust globally
+  font-size: 16px;  // adjust globally
 }
 
 body {
   font-family: $global-font-family;
-  font-size: 0.95em;  // controls paragraph and normal text size
+  font-size: 0.5em;  // controls paragraph and normal text size
   line-height: 1.6;
   color: #111;
 }
