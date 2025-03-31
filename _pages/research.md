@@ -87,11 +87,10 @@ permalink: /research/
     you can run these two lines to access the data:
   </p>
 
-  <pre><code class="language-python">
-  import xarray as xr
-
-  ds = xr.open_dataset("ipns://latest.orcestra-campaign.org/products/Radiosondes/RS_ORCESTRA_level2.zarr", engine="zarr")
-  </code></pre>
+  <div class="code-box">
+    <span class="keyword">import</span> xarray <span class="keyword">as</span> xr<br><br>
+    ds = xr.open_dataset(<span class="string">"ipns://latest.orcestra-campaign.org/products/Radiosondes/RS_ORCESTRA_level2.zarr"</span>, engine=<span class="string">"zarr"</span>)
+  </div>
 
   <p>
     Currently I am writing the data paper, which should be published this year.
