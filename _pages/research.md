@@ -92,8 +92,6 @@ permalink: /research/
     ds = xr.open_dataset(<span class="string">"ipns://latest.orcestra-campaign.org/products/Radiosondes/RS_ORCESTRA_level2.zarr"</span>, engine=<span class="string">"zarr"</span>)
   </div>
 
-  <br><br> <!-- This adds vertical space below the code box -->
-
   <p>
     Currently I am writing the data paper, which should be published this year.
   </p>
