@@ -87,10 +87,25 @@ permalink: /research/
     you can run these two lines to access the data:
   </p>
 
-  <div class="code-box">
-    <span class="keyword">import</span> xarray <span class="keyword">as</span> xr<br><br>
-    ds = xr.open_dataset(<span class="string">"ipns://latest.orcestra-campaign.org/products/Radiosondes/RS_ORCESTRA_level2.zarr"</span>, engine=<span class="string">"zarr"</span>)
+  <div class="code-box-wrapper">
+    <button class="copy-btn" onclick="copyCode(this)">Copy</button>
+    <div class="code-box">
+  <span class="keyword">import</span> xarray <span class="keyword">as</span> xr
+
+  ds = xr.open_dataset(<span class="string">"ipns://latest.orcestra-campaign.org/products/Radiosondes/RS_ORCESTRA_level2.zarr"</span>, engine=<span class="string">"zarr"</span>)
+    </div>
   </div>
+
+  <script>
+  function copyCode(btn) {
+    const code = btn.nextElementSibling;
+    const text = code.innerText;
+    navigator.clipboard.writeText(text).then(() => {
+      btn.textContent = "Copied!";
+      setTimeout(() => btn.textContent = "Copy", 1500);
+    });
+  }
+  </script>
 
   <p>
     Currently I am writing the data paper, which should be published this year.
