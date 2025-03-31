@@ -70,7 +70,7 @@ permalink: /research/
 
 <section>
   <p>
-    In 2024, I had the great opportunity to take part in the ORCESTRA field campaign. For four weeks,
+    In 2024, I had the great opportunity to take part in the <a href="https://orcestra-campaign.org/intro.html" target="_blank">ORCESTRA</a> field campaign. For four weeks,
     I led the radiosonde mission in Barbados, launching 141 sondes together with a team of 15 young scientists.
   </p>
 
