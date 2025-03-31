@@ -30,18 +30,18 @@ permalink: /research/
   </p>
 
   <p>
-    With the high resolution of the ICON storm-resolving climate model—operating at kilometer scale—we can capture
+    With the high resolution of the storm-resolving climate model ICON which operates at kilometer scale, we can capture
     these subtle contributions and quantify their role in shaping the equatorial surface wind momentum budget.
   </p>
 </section>
 
 <figure>
     <img src="/assets/images/overturning.png" alt="Small scale triggers overturning circulation">
-    <figcaption style="background-color: #f2f2f2; padding: 5px;">Surface heat flux revives surface pressure: an illustrative example. Surface heat exchange (small curly arrows, lower left) triggers convection, shifting the vertical temperature profile (red) toward higher temperatures and lowering surface pressure ("L"). Gravity waves (black curly arrows) redistribute mass and energy across the free troposphere, modifying temperature profiles (blue) over non-convective regions and reinforcing higher surface pressure ("H") over colder areas. This process ultimately strengthens surface winds by enhancing the circulation pattern (blue circular arrows). Visualization: Yvonne Schrader. </figcaption>
+    <figcaption style="background-color: #f2f2f2; padding: 5px;">Surface heat flux revives surface pressure: an illustrative example. Surface heat exchange (small curly arrows, lower left) triggers convection, shifting the vertical temperature profile (red) toward higher temperatures and lowering surface pressure ("L"). The free troposphere is assumed to rapidly equilibrate horizontal temperature differences by redistributing mass and energy. This adjustment modifies temperature profiles (blue) over non-convective regions and reinforces higher surface pressure ('H') over cooler areas. This process ultimately strengthens surface winds by enhancing the circulation pattern (blue circular arrows). Visualization: Yvonne Schrader. </figcaption>
 </figure>
 <section>
   <p>
-    From the study at the top of this page, we learned how important the pressure gradient force is — a force largely shaped by the underlying sea surface temperature (SST).
+    From the study at the top of this page, we learned how important the pressure gradient force is, which is largely shaped by the underlying sea surface temperature (SST).
   </p>
 
   <p>
@@ -82,7 +82,23 @@ permalink: /research/
 
   <p>
     Since returning to Germany, I’ve been post-processing the data from all radiosonde launches conducted at
-    BCO (Barbados), INMG (Sal, Cape Verde), and the R/V Meteor. The dataset is already complete — I’m currently
-    writing the paper!
+    BCO (Barbados), INMG (Sal, Cape Verde), and the R/V Meteor. The dataset is already complete. After installing the 
+    <a href="https://docs.ipfs.tech/install/ipfs-desktop/#windows" target="_blank">IPFS client</a>, 
+    you can run these two lines to access the data:
   </p>
+
+  <pre><code class="language-python">
+  import xarray as xr
+
+  ds = xr.open_dataset("ipns://latest.orcestra-campaign.org/products/Radiosondes/RS_ORCESTRA_level2.zarr", engine="zarr")
+  </code></pre>
+
+  <p>
+    Currently I am writing the data paper, which should be published this year.
+  </p>
+
+
+
 </section>
+
+
