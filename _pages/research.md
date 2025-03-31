@@ -82,7 +82,7 @@ permalink: /research/
 
   <p>
     Since returning to Germany, I’ve been post-processing the data from all radiosonde launches conducted at
-    BCO (Barbados), INMG (Sal, Cape Verde), and the R/V Meteor. The dataset is already complete. After installing the 
+    BCO (Barbados), INMG (Sal, Cape Verde), and the R/V Meteor. I am currently writing the data paper, which should be published this year but the dataset is already complete. After installing the 
     <a href="https://docs.ipfs.tech/install/ipfs-desktop/#windows" target="_blank">IPFS client</a>, 
     you can run these two python lines to access the data:
   </p>
@@ -91,12 +91,6 @@ permalink: /research/
     <span class="keyword">import</span> xarray <span class="keyword">as</span> xr<br><br>
     ds = xr.open_dataset(<span class="string">"ipns://latest.orcestra-campaign.org/products/Radiosondes/RS_ORCESTRA_level2.zarr"</span>, engine=<span class="string">"zarr"</span>)
   </div>
-
-  <p>
-    Currently I am writing the data paper, which should be published this year.
-  </p>
-
-
 
 </section>
 
