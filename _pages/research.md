@@ -15,10 +15,10 @@ permalink: /research/
 </figure>
 <section>
   <p>
-    As part of my PhD research, I studied the dynamics of surface winds over the equatorial oceans.
-    The figure above shows two distinct wind patterns that prevail near the equator.
-    Contrary to intuitive expectations, the winds cross the equator at nearly right angles in some regions,
-    as indicated by the green-shaded areas representing the meridional wind component.
+    As part of my PhD research, I investigated the dynamics of surface winds over the equatorial oceans.
+    The figure above illustrates two distinct wind patterns that prevail near the equator: the Zonal Wind Pattern, which flows parallel to the equator, and the Meridional Wind Pattern, which crosses it.
+    Contrary to intuitive expectations, the winds cross the equator at nearly right angles in some regions.
+    These areas are highlighted in green, representing the Meridional Wind Pattern.
   </p>
 
   <p>
