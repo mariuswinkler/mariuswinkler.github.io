@@ -84,28 +84,15 @@ permalink: /research/
     Since returning to Germany, I’ve been post-processing the data from all radiosonde launches conducted at
     BCO (Barbados), INMG (Sal, Cape Verde), and the R/V Meteor. The dataset is already complete. After installing the 
     <a href="https://docs.ipfs.tech/install/ipfs-desktop/#windows" target="_blank">IPFS client</a>, 
-    you can run these two lines to access the data:
+    you can run these two python lines to access the data:
   </p>
 
-  <div class="code-box-wrapper">
-    <button class="copy-btn" onclick="copyCode(this)">Copy</button>
-    <div class="code-box">
-  <span class="keyword">import</span> xarray <span class="keyword">as</span> xr
-
-  ds = xr.open_dataset(<span class="string">"ipns://latest.orcestra-campaign.org/products/Radiosondes/RS_ORCESTRA_level2.zarr"</span>, engine=<span class="string">"zarr"</span>)
-    </div>
+  <div class="code-box">
+    <span class="keyword">import</span> xarray <span class="keyword">as</span> xr<br><br>
+    ds = xr.open_dataset(<span class="string">"ipns://latest.orcestra-campaign.org/products/Radiosondes/RS_ORCESTRA_level2.zarr"</span>, engine=<span class="string">"zarr"</span>)
   </div>
 
-  <script>
-  function copyCode(btn) {
-    const code = btn.nextElementSibling;
-    const text = code.innerText;
-    navigator.clipboard.writeText(text).then(() => {
-      btn.textContent = "Copied!";
-      setTimeout(() => btn.textContent = "Copy", 1500);
-    });
-  }
-  </script>
+  <br><br> <!-- This adds vertical space below the code box -->
 
   <p>
     Currently I am writing the data paper, which should be published this year.
