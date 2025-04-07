@@ -7,16 +7,39 @@ permalink: /
 <div style="margin-top: -4rem;">
   <figure>
     <div style="display: flex; justify-content: center;">
-      <video id="myVideo" style="width: 70%; height: auto; object-fit: cover;" controls autoplay loop>
+      <video
+        id="myVideo"
+        style="width: 70%; height: auto; object-fit: cover;"
+        playsinline
+        muted
+        controls
+        loop
+      >
         <source src="/assets/videos/Video_fps=24_DPI=100.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </div>
     <figcaption style="background-color: #f2f2f2; padding: 5px; max-width: 100%; margin: 0 auto;">
-      Surface winds (gray shading) interact dynamically with the Earth's surface—over land, they reveal orographic features, while over the ocean, they actively shape ocean dynamics. Sea surface temperature (color-coded) reaches a local minimum in the equatorial cold tongue regions, a signature of air-sea interaction. Shown is output from an ICON simulation at 5 km resolution. <br>Credit: MPI-M, DKRZ.
+      Surface winds (gray shading) interact dynamically with the Earth's surface—over land, they reveal orographic features, while over the ocean, they actively shape ocean dynamics.
+      Sea surface temperature (color-coded) reaches a local minimum in the equatorial cold tongue regions, a signature of air-sea interaction.
+      Shown is output from an ICON simulation at 5 km resolution. <br>Credit: MPI-M, DKRZ.
     </figcaption>
   </figure>
 </div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const video = document.getElementById("myVideo");
+    if (window.innerWidth > 768) {
+      video.setAttribute("autoplay", "true");
+      video.play().catch(() => {
+        // Autoplay might fail silently in some browsers due to policies
+      });
+    } else {
+      video.removeAttribute("autoplay");
+    }
+  });
+</script>
 
 Salut ! I am Marius, an atmospheric physicist and currently engaged as a Postdoc at the Max Planck Institute for Meteorology.
 
