@@ -4,7 +4,7 @@ title: "Scientific Contributions"
 permalink: /scientific_contributions/
 ---
 <h3>Published</h3>
-- **Winkler, M.**, et al. (2025b): "Uncovering the Drivers of the Equatorial Ocean Surface Winds". <i>Quarterly Journal of the Royal Meteorological Society</i>, e4998. <br>[http://doi.org/10.1002/qj.4998](https://rmets.onlinelibrary.wiley.com/doi/10.1002/qj.4998)
+- **Winkler, M.**, et al. (2025b): "Uncovering the Drivers of the Equatorial Ocean Surface Winds". <i>Quarterly Journal of the Royal Meteorological Society</i>, e4998. <br>[doi.org/10.1002/qj.4998](https://rmets.onlinelibrary.wiley.com/doi/10.1002/qj.4998)
 - **Winkler, M.**, et al. (2025a): "Uncovering the Drivers of the Equatorial Ocean Surface Winds", <i>Reports on Earth System Science</i>, <br>[ISSN 1614-1199](https://ediss.sub.uni-hamburg.de/bitstream/ediss/11553/1/BzE_288_Winkler_for_WEB.pdf)
 - Hohenegger, C., **Winkler, M.**, et al. (2023). "ICON-Sapphire: simulating the components of the Earth system and their interactions at kilometer and subkilometer scales". <i>Geoscientific Model Development</i>, 16 (2), 779-811. <br>[doi: 10.5194/gmd-16-779-2023](https://gmd.copernicus.org/articles/16/779/2023/)
 - **Winkler, M.**, et al. (2021). "Phase response approaches to neural activity models with distributed delay". <i>Biological Cybernetics</i>, Dezember 2021. [doi.org/10.1007/s00422-021-00910-9](https://link.springer.com/article/10.1007/s00422-021-00910-9)
