@@ -4,13 +4,13 @@ title: "Scientific Contributions"
 permalink: /scientific_contributions/
 ---
 <h3>Published</h3>
+- **Winkler, M.**, et al. (2025b): "Uncovering the Drivers of the Equatorial Ocean Surface Winds". <i>Quarterly Journal of the Royal Meteorological Society</i>, e4998. <br>[http://doi.org/10.1002/qj.4998](https://rmets.onlinelibrary.wiley.com/doi/10.1002/qj.4998)
 - **Winkler, M.**, et al. (2025a): "Uncovering the Drivers of the Equatorial Ocean Surface Winds", <i>Reports on Earth System Science</i>, <br>[ISSN 1614-1199](https://ediss.sub.uni-hamburg.de/bitstream/ediss/11553/1/BzE_288_Winkler_for_WEB.pdf)
 - Hohenegger, C., **Winkler, M.**, et al. (2023). "ICON-Sapphire: simulating the components of the Earth system and their interactions at kilometer and subkilometer scales". <i>Geoscientific Model Development</i>, 16 (2), 779-811. <br>[doi: 10.5194/gmd-16-779-2023](https://gmd.copernicus.org/articles/16/779/2023/)
 - **Winkler, M.**, et al. (2021). "Phase response approaches to neural activity models with distributed delay". <i>Biological Cybernetics</i>, Dezember 2021. [doi.org/10.1007/s00422-021-00910-9](https://link.springer.com/article/10.1007/s00422-021-00910-9)
 - **Winkler, M.**, et al. (2019). "Relay synchronization in multiplex networks of discrete maps". <i>Europhysics Letters</i>, Bd. 126, Nr. 5, July 2019, S. 50004. [doi:10.1209/0295-5075/126/50004](https://iopscience.iop.org/article/10.1209/0295-5075/126/50004/pdf)
 
 <h3>Submitted</h3>
-- **Winkler, M.**, et al. (2025b): "Uncovering the Drivers of the Equatorial Ocean Surface Winds", submitted to <i>Quarterly Journal of the Royal Meteorological Society</i>
 - Segura H., **Winkler, M.**, et al. (2025a). "Global Storm-Resolving Models and the Double ITCZ Bias: Air-Surface Interaction Role for Convection in Light Wind Regimes", <i>submitted to Journal of Advances in Modeling Earth Systems</i>
 - Segura H., **Winkler, M.**, et al. (2025b). "NextGEMS: Entering the Era of Kilometre-Scale Earth System Modelling", submitted to <i>Geoscientific Model Development</i>
 
