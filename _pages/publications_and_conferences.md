@@ -68,7 +68,7 @@ permalink: /scientific_contributions/
   </li>
 
   <li>
-    Segura, H., Peinado, A., Bastin, S., Shevchenko, R., <b>Winkler, M.</b>, Praturi, D. S., & Dragaud, I. (2025e). 
+    Segura, H., Peinado, A., Bastin, S., Shevchenko, R., <b>Winkler, M.</b>, Praturi, D. S., & Dragaud, I. (2025). 
     <br>"Precipitation Accelerating Ocean Currents in a km-Scale Earth System Model."
   </li>
 </ul>
