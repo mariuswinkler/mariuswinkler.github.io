@@ -6,6 +6,20 @@ permalink: /scientific_contributions/
 <h3>Published</h3>
 <ul>
   <li>
+    <b>Winkler, M.</b>, Kölling, T., Mellado, J. P., & Stevens, B. (2025b). 
+    <br>"Uncovering the Drivers of the Equatorial Ocean Surface Winds." 
+    <br><i>Quarterly Journal of the Royal Meteorological Society</i>, e4998. 
+    <br><a href="https://doi.org/10.1002/qj.4998">https://doi.org/10.1002/qj.4998</a>
+  </li>
+
+  <li>
+    <b>Winkler, M.</b> (2025a). 
+    <br>"Uncovering the Drivers of the Equatorial Ocean Surface Winds." 
+    <br><i>Reports on Earth System Science</i>. 
+    <br><a href="https://ediss.sub.uni-hamburg.de/bitstream/ediss/11553/1/BzE_288_Winkler_for_WEB.pdf">PhD Thesis: Winkler, Marius</a>
+  </li>
+  
+  <li>
     Segura, H., Pedruzo-Bagazgoitia, X., Weiss, P., Müller, S. K., Rackow, T., Lee, J., Dolores-Tesillos, E., Benedict, I., Aengenheyster, M., Aguridan, R., <b>Winkler, M.</b>, et al. (2025). 
     <br>"nextGEMS: Entering the Era of Kilometer-Scale Earth System Modeling." 
     <br><i>Geoscientific Model Development</i>, 18, 7735–7761. 
@@ -17,20 +31,6 @@ permalink: /scientific_contributions/
     <br>"A Single Tropical Rainbelt in Global Storm-Resolving Models: The Role of Surface Heat Fluxes Over the Warm Pool." 
     <br><i>Journal of Advances in Modeling Earth Systems (JAMES)</i>. 
     <br><a href="https://doi.org/10.1029/2024MS004897">https://doi.org/10.1029/2024MS004897</a>
-  </li>
-
-  <li>
-    <b>Winkler, M.</b>, Kölling, T., Mellado, J. P., & Stevens, B. (2025b). 
-    <br>"Uncovering the Drivers of the Equatorial Ocean Surface Winds." 
-    <br><i>Quarterly Journal of the Royal Meteorological Society</i>, e4998. 
-    <br><a href="https://doi.org/10.1002/qj.4998">https://doi.org/10.1002/qj.4998</a>
-  </li>
-
-  <li>
-    <b>Winkler, M.</b> (2025a). 
-    <br>"Uncovering the Drivers of the Equatorial Ocean Surface Winds." 
-    <br><i>Reports on Earth System Science</i>. 
-    <br><a href="PhD Thesis, Winkler, Marius">https://ediss.sub.uni-hamburg.de/bitstream/ediss/11553/1/BzE_288_Winkler_for_WEB.pdf</a>
   </li>
 
   <li>
