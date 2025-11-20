@@ -55,13 +55,15 @@ permalink: /scientific_contributions/
   </li>
 </ul>
 
-<h3>In Preparation</h3>
+<h3>Submitted</h3>
 <ul>
   <li>
     <b>Winkler, M.</b>, Rixen, M., Beucher, F., Couvreux, F., Nam, C. C., Peyrillé, P., Schmidt, H., Segura, H., Wieners, K.-H., Alkilani-Brown, E., Coly, A. A., Biagioli, G., Bell, M. M., Brito, E., Chauvin, E., Capo, J., Colón-Burgos, D., Dawes, A., da Luz, J. C., Demiralay, Z., Douet, V., Ducastin, V., Dufaux, C., Dufresne, J.-L., Favot, F., Fiolleau, T., Fons, E., George, G., Glöckner, H. M., Gonçalves, S., Gouttesoulard, L., Hayo, L., Hsiao, W.-T., Kennison, S., Kopelman, M., Lee, T.-Y., Le Gall, E., Lovato, M., Luschen, E., Maury, N., McKim, B., Netz, L., Ousseynou, D., Peters-von Gehlen, K., Pope, C., Poujol, B., Rivera Maldonado, N., Robbins-Blanch, N., Rochetin, N., Rowe, D., Romero Jure, P., Ruppert, J. H. Jr., Segura Bermudez, J., Starr, J. C., Stelzner, M., Stoll, C., Syrett, M., Tekoe, A., Trules, J., Welty, C., Klocke, D., Vogel, R., Bony, S., Wing, A. A., & Stevens, B. (2025c). 
     <br>"Atmospheric Radiosoundings from Ship and Island Platforms during the 2024 ORCESTRA Field Campaign."
   </li>
 
+<h3>In Preparation</h3>
+<ul>
   <li>
     <b>Winkler, M.</b>, Mellado, J. P., & Stevens, B. (2025d). 
     <br>"On the Role of the Surface Flux Parametrization in Tropical Convection under Low Wind Speed Regimes."
