@@ -6,7 +6,7 @@ permalink: /cv/
 
 <a href="/assets/CV/WINKLER_Marius_CV.pdf" target="_blank" download class="button">📄 Download CV</a>
 
-I am a postdoctoral researcher at the Max-Planck-Institut für Meteorologie in Hamburg, working at the intersection of atmosphere–ocean interaction and boundary layer dynamics. I recently completed my Ph.D. in Earth System Sciences at the Max-Planck-Institut and Universität Hamburg (2021–2025), where I focused on boundary layer wind balances and their influence on equatorial sea-surface temperatures. My work was supervised by Bjorn Stevens and Juan Pedro Mellado and centered on momentum analysis, surface winds, and tropical climate dynamics.
+I am a postdoctoral researcher in Hamburg, working at the intersection of atmosphere–ocean interaction and boundary layer dynamics. I completed my Ph.D. in Earth System Sciences at the Max-Planck-Institut and Universität Hamburg (2021–2025), where I focused on boundary layer wind balances and their influence on equatorial sea-surface temperatures. My work was supervised by Bjorn Stevens and Juan Pedro Mellado and centered on momentum analysis, surface winds, and tropical climate dynamics.
 
 Before my Ph.D., I studied theoretical physics at the École Normale Supérieure in Paris and the Technische Universität Berlin. My Master’s thesis explored phase response approaches to neural activity models with delay, combining nonlinear dynamics and neuroscience. I hold a Bachelor’s degree in Physics from TU Berlin, where I investigated synchronization in networks of coupled oscillators. Earlier in my path, I completed a journeyman apprenticeship as a bespoke shoemaker 
 <img src="/assets/CV/Schuh1.png" alt="Shoe" style="height: 0.6em; vertical-align: 0.1em;"> 
