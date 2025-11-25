@@ -83,6 +83,8 @@ Ocean Sciences Meeting, New Orleans, USA, Februray 18 - 23 2024
 Pan-GASS, Monterey, USA, July 25 - 29 2022
 
 <h2>Posters</h2>
+- Storm-Resolving Model ICON at the Air-Sea Interface: Insights into Momentum Dynamics and Parameterization Challenges,<br>
+EGU, Vienna, Austria, April 28--May 02, 2025
 - [From Sea Surface Temperature to Equatorial Surface Winds](https://owncloud.gwdg.de/index.php/s/qCgP6jvWUkhrjX2),<br>
 CFMIP-GASS Conference, Paris, France, July 09 - 13, 2023
 - Phase Response Approaches to Neural Activity Models with Delay,<br>
@@ -95,6 +97,7 @@ Bachelor-Symposium, Young German Physical Society, Berlin, Germany, November 21,
 International Conference on Control of Self-Organizing Nonlinear Systems, Rostock, Germany, September 09 - 13 2018
 
 <h2>Hackathons and Workshops</h2>
+- Hackathon: [km-Scale Hackathon 2025](https://digital-earths-global-hackathon.github.io/hamburg-node/) Hamburg node, Germany, May 12--16, 2025
 - Hackathon: [NextGems](https://nextgems-h2020.eu/) C4, Hamburg, Germany, March 4 - March 8, 2024
 - Hackathon: [NextGems](https://nextgems-h2020.eu/) C3, Madrid, Spain, May 29 - June 02, 2023
 - Hackathon: [NextGems](https://nextgems-h2020.eu/) C2, Vienna, Austria, June 28 - July 03, 2022
