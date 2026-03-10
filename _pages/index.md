@@ -18,8 +18,9 @@ permalink: /
   </figure>
 </div>
 
-Salut ! <br>I am Marius, an atmospheric physicist and postdoctoral researcher.
-
+Salut ! 
+<br>I am Marius, an atmospheric physicist and postdoctoral researcher.
 My research centers on equatorial dynamics. As a kitesurfer and sailor, I’m particularly interested in surface winds and the processes within the atmospheric boundary layer over the oceans.
 The equator is one of the warmest regions on Earth on an annual average. At the same time, wind-driven ocean currents bring cold water masses to the surface, where they interact with the warm boundary layer. This interaction creates temperature gradients that lead to pressure gradients and drive boundary layer winds.
-Yet, the warm boundary layer also interacts with the overlying free troposphere and thus serves as an active, mediating layer that connects Earth’s surface with the higher atmosphere. <br>Exciting, isn't it ?
+Yet, the warm boundary layer also interacts with the overlying free troposphere and thus serves as an active, mediating layer that connects Earth’s surface with the higher atmosphere. 
+<br>Exciting, isn't it ?
