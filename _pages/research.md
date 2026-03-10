@@ -89,7 +89,7 @@ permalink: /research/
 
   <div class="code-box">
     <span class="keyword">import</span> xarray <span class="keyword">as</span> xr<br><br>
-    ds = xr.open_dataset(<span class="string">"ipns://latest.orcestra-campaign.org/products/Radiosondes/RS_ORCESTRA_level2.zarr"</span>, engine=<span class="string">"zarr"</span>)
+    ds = xr.open_dataset(<span class="string">"ipfs://bafybeid7cnw62zmzfgxcvc6q6fa267a7ivk2wcchbmkoyk4kdi5z2yj2w4"</span>, engine=<span class="string">"zarr"</span>)
   </div>
 
 </section>
