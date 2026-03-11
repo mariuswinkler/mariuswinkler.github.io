@@ -6,6 +6,13 @@ permalink: /scientific_contributions/
 <h3>Published</h3>
 <ul>
   <li>
+    <b>Winkler, M.</b>, Rixen, M., Beucher, F., Couvreux, F., Nam, C. C., Peyrillé, P., Schmidt, H., Segura, H., Wieners, K.-H., Alkilani-Brown, E., Coly, A. A., Biagioli, G., Bell, M. M., Brito, E., Chauvin, E., Capo, J., Colón-Burgos, D., Dawes, A., da Luz, J. C., Demiralay, Z., Douet, V., Ducastin, V., Dufaux, C., Dufresne, J.-L., Favot, F., Fiolleau, T., Fons, E., George, G., Glöckner, H. M., Gonçalves, S., Gouttesoulard, L., Hayo, L., Hsiao, W.-T., Kennison, S., Kopelman, M., Lee, T.-Y., Le Gall, E., Lovato, M., Luschen, E., Maury, N., McKim, B., Netz, L., Ousseynou, D., Peters-von Gehlen, K., Pope, C., Poujol, B., Rivera Maldonado, N., Robbins-Blanch, N., Rochetin, N., Rowe, D., Romero Jure, P., Ruppert, J. H. Jr., Segura Bermudez, J., Starr, J. C., Stelzner, M., Stoll, C., Syrett, M., Tekoe, A., Trules, J., Welty, C., Klocke, D., Vogel, R., Bony, S., Wing, A. A., & Stevens, B. (2026). 
+    <br>"Atmospheric Radiosoundings from Ship and Island Platforms during the 2024 ORCESTRA Field Campaign."
+    <br><i>Earth System Science Data</i>, 18, 1833–1854.
+    <br><a href="https://doi.org/10.5194/essd-18-1833-2026">https://doi.org/10.5194/essd-18-1833-2026</a>
+  </li>
+
+  <li>
     <b>Winkler, M.</b>, Kölling, T., Mellado, J. P., & Stevens, B. (2025b). 
     <br>"Uncovering the Drivers of the Equatorial Ocean Surface Winds." 
     <br><i>Quarterly Journal of the Royal Meteorological Society</i>, e4998. 
@@ -55,25 +62,15 @@ permalink: /scientific_contributions/
   </li>
 </ul>
 
-<h3>Preprint</h3>
-<ul>
-  <li>
-    <b>Winkler, M.</b>, Rixen, M., Beucher, F., Couvreux, F., Nam, C. C., Peyrillé, P., Schmidt, H., Segura, H., Wieners, K.-H., Alkilani-Brown, E., Coly, A. A., Biagioli, G., Bell, M. M., Brito, E., Chauvin, E., Capo, J., Colón-Burgos, D., Dawes, A., da Luz, J. C., Demiralay, Z., Douet, V., Ducastin, V., Dufaux, C., Dufresne, J.-L., Favot, F., Fiolleau, T., Fons, E., George, G., Glöckner, H. M., Gonçalves, S., Gouttesoulard, L., Hayo, L., Hsiao, W.-T., Kennison, S., Kopelman, M., Lee, T.-Y., Le Gall, E., Lovato, M., Luschen, E., Maury, N., McKim, B., Netz, L., Ousseynou, D., Peters-von Gehlen, K., Pope, C., Poujol, B., Rivera Maldonado, N., Robbins-Blanch, N., Rochetin, N., Rowe, D., Romero Jure, P., Ruppert, J. H. Jr., Segura Bermudez, J., Starr, J. C., Stelzner, M., Stoll, C., Syrett, M., Tekoe, A., Trules, J., Welty, C., Klocke, D., Vogel, R., Bony, S., Wing, A. A., & Stevens, B. (2026). 
-    <br>"Atmospheric Radiosoundings from Ship and Island Platforms during the 2024 ORCESTRA Field Campaign."
-    <br><i>Earth System Science Data </i>
-    <br><a href="https://doi.org/10.5194/essd-2025-638">https://doi.org/10.5194/essd-2025-638</a>
-  </li>
-</ul>
-
 <h3>In Preparation</h3>
 <ul>
   <li>
-    <b>Winkler, M.</b>, Mellado, J. P., & Stevens, B. (2025d). 
+    <b>Winkler, M.</b>, Mellado, J. P., & Stevens, B. 
     <br>"On the Role of the Surface Flux Parametrization in Tropical Convection under Low Wind Speed Regimes."
   </li>
 
   <li>
-    Segura, H., Peinado, A., Bastin, S., Shevchenko, R., <b>Winkler, M.</b>, Praturi, D. S., & Dragaud, I. (2025). 
+    Segura, H., Peinado, A., Bastin, S., Shevchenko, R., <b>Winkler, M.</b>, Praturi, D. S., & Dragaud, I. 
     <br>"Precipitation Accelerating Ocean Currents in a km-Scale Earth System Model."
   </li>
 </ul>
