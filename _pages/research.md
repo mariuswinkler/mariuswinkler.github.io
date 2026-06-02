@@ -22,8 +22,8 @@ permalink: /research/
   </p>
 
   <p>
-    On their journey toward the equator—originating from the higher latitudes where the trade winds descend
-    from the Hadley cell—the momentum balance governing these winds undergoes a shift.
+    On their journey toward the equator, originating from the higher latitudes where the trade winds descend
+    from the Hadley cell, the momentum balance governing these winds undergoes a shift.
     Farther from the equator, an Ekman balance between the Coriolis force, pressure gradient force, and surface
     friction dominates. Closer to the equator, however, the Coriolis force vanishes, and the balance is instead
     shaped by the pressure gradient force, surface friction, and both horizontal and vertical momentum transport.

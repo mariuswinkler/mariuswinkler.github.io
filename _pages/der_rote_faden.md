@@ -22,7 +22,7 @@ toc: false
   </p>
 
   <p>
-    In Berlin, during my bachelor’s thesis, I dove into the study of complex networks governed by nonlinear dynamics. These networks often remain invisible to the naked eye although they're everywhere. One of the most fascinating examples? The human brain.
+    In Berlin, during my bachelor’s thesis, I dove into the study of complex networks governed by nonlinear dynamics. These networks often remain invisible to the naked eye although they're everywhere. One of the most fascinating examples?: The human brain.
   </p>
 
   <p>
@@ -30,11 +30,11 @@ toc: false
   </p>
 
   <p>
-    After finishing my master’s, I knew I wanted to stay in science. That was clear. But I also wanted to understand processes that are visible to the naked eye. As a journeyman shoemaker, I've always appreciated the beauty of well-structured, intricate processes. Earth’s climate and atmosphere are massive, living networks full of feedbacks and nonlinear dynamics. And so, in a way, my path circled back to where it began.
+    After finishing my master’s, I knew I wanted to stay in science. That was clear. But I also wanted to understand processes that are visible to the naked eye. As a Master Craftsman in  shoemaker, I've always appreciated the beauty of well-structured, intricate processes. Earth’s climate and atmosphere are massive, living networks full of feedbacks and nonlinear dynamics. And so, in a way, my path circled back to where it began.
   </p>
 
   <p>
-    I’m excited for many more years working at the intersection of observation, theory, and modeling — in the fascinating world of climate science.
+    I’m excited for many more years working at the intersection of observation, theory, and modeling in the fascinating world of climate science.
   </p>
 
   <p style="margin-top: 2em; font-size: 0.9em;">
