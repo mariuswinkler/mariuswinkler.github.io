@@ -3,7 +3,7 @@ layout: single
 title: "Scientific Contributions"
 permalink: /scientific_contributions/
 ---
-<h3>Published</h3>
+<h3>First-authored</h3>
 <ul>
   <li>
     <b>Winkler, M.</b>, Rixen, M., Beucher, F., Couvreux, F., Nam, C. C., Peyrillé, P., Schmidt, H., Segura, H., Wieners, K.-H., Alkilani-Brown, E., Coly, A. A., Biagioli, G., Bell, M. M., Brito, E., Chauvin, E., Capo, J., Colón-Burgos, D., Dawes, A., da Luz, J. C., Demiralay, Z., Douet, V., Ducastin, V., Dufaux, C., Dufresne, J.-L., Favot, F., Fiolleau, T., Fons, E., George, G., Glöckner, H. M., Gonçalves, S., Gouttesoulard, L., Hayo, L., Hsiao, W.-T., Kennison, S., Kopelman, M., Lee, T.-Y., Le Gall, E., Lovato, M., Luschen, E., Maury, N., McKim, B., Netz, L., Ousseynou, D., Peters-von Gehlen, K., Pope, C., Poujol, B., Rivera Maldonado, N., Robbins-Blanch, N., Rochetin, N., Rowe, D., Romero Jure, P., Ruppert, J. H. Jr., Segura Bermudez, J., Starr, J. C., Stelzner, M., Stoll, C., Syrett, M., Tekoe, A., Trules, J., Welty, C., Klocke, D., Vogel, R., Bony, S., Wing, A. A., & Stevens, B. (2026). 
@@ -25,7 +25,24 @@ permalink: /scientific_contributions/
     <br><i>Reports on Earth System Science</i>. 
     <br><a href="https://ediss.sub.uni-hamburg.de/bitstream/ediss/11553/1/BzE_288_Winkler_for_WEB.pdf">PhD Thesis: Winkler, Marius</a>
   </li>
-  
+
+  <li>
+    <b>Winkler, M.</b>, Dumont, G., Schöll, E., & Gutkin, B. (2021). 
+    <br>"Phase Response Approaches to Neural Activity Models with Distributed Delay." 
+    <br><i>Biological Cybernetics</i>, December 2021. 
+    <br><a href="https://doi.org/10.1007/s00422-021-00910-9">https://doi.org/10.1007/s00422-021-00910-9</a>
+  </li>
+
+  <li>
+    <b>Winkler, M.</b>, Sawicki, J., Omelchenko, I., Zakharova, A., Anishchenko, V., & Schöll, E. (2019). 
+    <br>"Relay Synchronization in Multiplex Networks of Discrete Maps." 
+    <br><i>Europhysics Letters</i>, 126(5), 50004. 
+    <br><a href="https://doi.org/10.1209/0295-5075/126/50004">https://doi.org/10.1209/0295-5075/126/50004</a>
+  </li>
+</ul>
+
+<h3>Co-authored</h3>
+<ul>
   <li>
     Segura, H., Pedruzo-Bagazgoitia, X., Weiss, P., Müller, S. K., Rackow, T., Lee, J., Dolores-Tesillos, E., Benedict, I., Aengenheyster, M., Aguridan, R., <b>Winkler, M.</b>, et al. (2025). 
     <br>"nextGEMS: Entering the Era of Kilometer-Scale Earth System Modeling." 
@@ -45,20 +62,6 @@ permalink: /scientific_contributions/
     <br>"ICON-Sapphire: Simulating the Components of the Earth System and Their Interactions at Kilometer and Sub-Kilometer Scales." 
     <br><i>Geoscientific Model Development</i>, 16, 779–811. 
     <br><a href="https://doi.org/10.5194/gmd-16-779-2023">https://doi.org/10.5194/gmd-16-779-2023</a>
-  </li>
-
-  <li>
-    <b>Winkler, M.</b>, Dumont, G., Schöll, E., & Gutkin, B. (2021). 
-    <br>"Phase Response Approaches to Neural Activity Models with Distributed Delay." 
-    <br><i>Biological Cybernetics</i>, December 2021. 
-    <br><a href="https://doi.org/10.1007/s00422-021-00910-9">https://doi.org/10.1007/s00422-021-00910-9</a>
-  </li>
-
-  <li>
-    <b>Winkler, M.</b>, Sawicki, J., Omelchenko, I., Zakharova, A., Anishchenko, V., & Schöll, E. (2019). 
-    <br>"Relay Synchronization in Multiplex Networks of Discrete Maps." 
-    <br><i>Europhysics Letters</i>, 126(5), 50004. 
-    <br><a href="https://doi.org/10.1209/0295-5075/126/50004">https://doi.org/10.1209/0295-5075/126/50004</a>
   </li>
 </ul>
 
