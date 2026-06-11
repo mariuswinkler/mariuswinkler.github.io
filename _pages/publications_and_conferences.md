@@ -3,6 +3,7 @@ layout: single
 title: "Scientific Contributions"
 permalink: /scientific_contributions/
 ---
+
 <h2>Publications</h2>
 <h3>First-authored</h3>
 <ul>
