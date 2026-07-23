@@ -6,6 +6,10 @@ permalink: /shoemaking/
 
 # A Shoemaker's Path into Science
 
+<div class="thumb" onclick="openBox(0)" style="width: 100%; height: auto; max-width: 600px; display: block; margin: 1em auto;">
+  <img src="/assets/images/shoemaking/shoe1.jpeg" data-caption="The Meisterstück." style="width: 100%; height: auto; object-fit: cover;">
+</div>
+
 As a child, I spent long summers in my father's workshop, and something about that world, the smell of sawdust, the weight of a well-balanced tool, the quiet satisfaction of a joint that fits, stayed with me long after. When I graduated school, I stumbled across a book about bespoke shoemaking on my father's bookshelf and was immediately confronted with a humbling realisation: I knew almost nothing about leather, and I had no idea how a shoe was made. That gap was exactly the kind of problem I could not leave unsolved. Germany's "Duales Ausbildungssystem", the dual vocational training system, made it possible to pursue that curiosity seriously, and in 2012 I began an apprenticeship in Neumünster under Hans-Joachim Vauk, a Master Shoemaker trained at Bally in Switzerland, who had quietly run his workshop for over 40 years.
 
 I always knew, even then, that I wanted to study at a university one day, as my friends were doing. Shoemaking was not a detour but a fire I needed to walk through first, an urge to work with my hands and understand a craft from its very foundations before sitting down at a desk. Every day at the bench, I listened to *Deutschlandfunk, Forschung aktuell* (Science Today), the German public radio science programme, arriving each afternoon in the middle of cutting and stitching and lasting. It helped me decide that when the time came, it would be physics.
