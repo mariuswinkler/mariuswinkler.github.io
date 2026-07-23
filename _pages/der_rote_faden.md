@@ -38,7 +38,7 @@ toc: false
   </p>
 
   <p style="margin-top: 2em; font-size: 0.9em;">
-    <strong>P.S.</strong> Curious to hear me speak? Check out the <a href="https://vimeo.com/806272814" target="_blank">promotion video</a> for the IMPRS at the MPI in Hamburg. For the shoot, I had to cycle through the deserted streets of Hamburg's Speicherstadt at sunrise — it was cold, surreal, and a lot of fun!
+    <strong>P.S.</strong> Curious to hear me speak? Check out the <a href="https://vimeo.com/806272814" target="_blank">promotion video</a> for the IMPRS at the MPI in Hamburg. For the shoot, I had to cycle through the deserted streets of Hamburg's Speicherstadt at sunrise, it was cold, surreal, and a lot of fun!
   </p>
 
 </section>
