@@ -89,13 +89,13 @@ permalink: /scientific_contributions/
 
 <h2>Talks</h2>
 - [Uncovering the Drivers of the Equatorial Ocean Surface Winds](http://osm24-agu.ipostersessions.com/Default.aspx?s=33-E8-3D-0F-7F-58-5E-A6-D5-5B-D3-F7-1C-65-95-30),<br>
-Ocean Sciences Meeting, New Orleans, USA, Februray 18 - 23 2024
+Ocean Sciences Meeting, New Orleans, USA, Februray 18 - 23, 2024
 - [What Drives Equatorial Boundary Layer Winds ?](https://www.gewexevents.org/wp-content/uploads/1000-WINKLER_Marius_PanGASS_2022_Thursday.pdf),<br>
-Pan-GASS, Monterey, USA, July 25 - 29 2022
+Pan-GASS, Monterey, USA, July 25 - 29, 2022
 
 <h2>Posters</h2>
 - Storm-Resolving Model ICON at the Air-Sea Interface: Insights into Momentum Dynamics and Parameterization Challenges,<br>
-EGU, Vienna, Austria, April 28--May 02, 2025
+EGU, Vienna, Austria, April 28 - May 02, 2025
 - [From Sea Surface Temperature to Equatorial Surface Winds](https://owncloud.gwdg.de/index.php/s/qCgP6jvWUkhrjX2),<br>
 CFMIP-GASS Conference, Paris, France, July 09 - 13, 2023
 - Phase Response Approaches to Neural Activity Models with Delay,<br>
@@ -109,11 +109,11 @@ International Conference on Control of Self-Organizing Nonlinear Systems, Rostoc
 
 <h2>Hackathons and Workshops</h2>
 - Hackathon: [km-Scale Hackathon 2025](https://digital-earths-global-hackathon.github.io/hamburg-node/) Hamburg node, Germany, May 12--16, 2025
-- Hackathon: [NextGems](https://nextgems-h2020.eu/) C4, Hamburg, Germany, March 4 - March 8, 2024
+- Hackathon: [NextGems](https://nextgems-h2020.eu/) C4, Hamburg, Germany, March 4 - 8, 2024
 - Hackathon: [NextGems](https://nextgems-h2020.eu/) C3, Madrid, Spain, May 29 - June 02, 2023
 - Hackathon: [NextGems](https://nextgems-h2020.eu/) C2, Vienna, Austria, June 28 - July 03, 2022
 - Hackathon: [NextGems](https://nextgems-h2020.eu/) C1, Berlin, Germany, October 19 - 22, 2021
-- Hackathon: DYAMOND, Hamburg, Germany, July 14 - July 16, 2021
+- Hackathon: DYAMOND, Hamburg, Germany, July 14 - 16, 2021
 - Workshop: Dynamics of Coupled Oscillator Systems, Weierstrass Institute for Applied Analysis and Stochastics, Berlin, Germany, November 19-21, 2018
 
 
