@@ -6,7 +6,7 @@ permalink: /shoemaking/
 
 # A Shoemaker's Path into Science
 
-<div class="thumb" onclick="openBox(0)" style="width: 100%; height: auto; max-width: 600px; display: block; margin: 1em auto;">
+<div class="thumb" onclick="openBox(0)" style="width: 100%; height: auto; max-width: 300px; display: block; margin: 1em auto;">
   <img src="/assets/images/shoemaking/shoe1.jpeg" data-caption="The Meisterstück." style="width: 100%; height: auto; object-fit: cover;">
 </div>
 
