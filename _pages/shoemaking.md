@@ -108,7 +108,6 @@ Until today, two hearts beat in my chest: one for science, one for the craft. Th
 </style>
 
 <div class="shoe-gallery">
-  <div class="thumb" onclick="openBox(0)"><img src="/assets/images/shoemaking/shoe1.jpeg"  data-caption="The Meisterstück."></div>
   <div class="thumb" onclick="openBox(1)"><img src="/assets/images/shoemaking/shoe2.jpeg"  data-caption=""></div>
   <div class="thumb" onclick="openBox(2)"><img src="/assets/images/shoemaking/shoe3.jpeg"  data-caption=""></div>
   <div class="thumb" onclick="openBox(3)"><img src="/assets/images/shoemaking/shoe4.jpeg"  data-caption=""></div>
