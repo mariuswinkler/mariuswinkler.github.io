@@ -44,7 +44,7 @@ Until today, two hearts beat in my chest: one for science, one for the craft. Th
   position: fixed;
   top: 0; left: 0;
   width: 100%; height: 100%;
-  background: rgba(0,0,0,0.85);
+  background: rgba(0,0,0,0.88);
   z-index: 9999;
   justify-content: center;
   align-items: center;
@@ -77,42 +77,118 @@ Until today, two hearts beat in my chest: one for science, one for the craft. Th
   cursor: pointer;
   line-height: 1;
 }
+#lightbox-prev, #lightbox-next {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  color: white;
+  font-size: 2.5em;
+  cursor: pointer;
+  user-select: none;
+  padding: 0.2em 0.4em;
+  background: rgba(255,255,255,0.1);
+  border-radius: 4px;
+  transition: background 0.2s;
+}
+#lightbox-prev:hover, #lightbox-next:hover {
+  background: rgba(255,255,255,0.25);
+}
+#lightbox-prev { left: 1em; }
+#lightbox-next { right: 1em; }
+#lightbox-counter {
+  position: absolute;
+  bottom: 1em;
+  color: rgba(255,255,255,0.5);
+  font-size: 0.85em;
+}
 </style>
 
 <div class="shoe-gallery">
-  <div class="thumb" onclick="openBox(this)">
-    <img src="/assets/images/shoe1.jpeg" data-caption="The Meisterstück.">
-  </div>
-  <div class="thumb" onclick="openBox(this)">
-    <img src="/assets/images/shoe2.jpeg" data-caption="">
-  </div>
-  <div class="thumb" onclick="openBox(this)">
-    <img src="/assets/images/shoe3.jpeg" data-caption="">
-  </div>
-  <div class="thumb" onclick="openBox(this)">
-    <img src="/assets/images/shoe4.jpeg" data-caption="">
-  </div>
+  <div class="thumb" onclick="openBox(0)"><img src="/assets/images/shoemaking/shoe1.jpeg"  data-caption="The Meisterstück."></div>
+  <div class="thumb" onclick="openBox(1)"><img src="/assets/images/shoemaking/shoe2.jpeg"  data-caption=""></div>
+  <div class="thumb" onclick="openBox(2)"><img src="/assets/images/shoemaking/shoe3.jpeg"  data-caption=""></div>
+  <div class="thumb" onclick="openBox(3)"><img src="/assets/images/shoemaking/shoe4.jpeg"  data-caption=""></div>
+  <div class="thumb" onclick="openBox(4)"><img src="/assets/images/shoemaking/shoe5.jpeg"  data-caption=""></div>
+  <div class="thumb" onclick="openBox(5)"><img src="/assets/images/shoemaking/shoe6.jpeg"  data-caption=""></div>
+  <div class="thumb" onclick="openBox(6)"><img src="/assets/images/shoemaking/shoe7.jpeg"  data-caption=""></div>
+  <div class="thumb" onclick="openBox(7)"><img src="/assets/images/shoemaking/shoe8.jpeg"  data-caption=""></div>
+  <div class="thumb" onclick="openBox(8)"><img src="/assets/images/shoemaking/shoe9.jpeg"  data-caption=""></div>
+  <div class="thumb" onclick="openBox(9)"><img src="/assets/images/shoemaking/shoe10.jpeg" data-caption=""></div>
+  <div class="thumb" onclick="openBox(10)"><img src="/assets/images/shoemaking/shoe11.jpeg" data-caption=""></div>
+  <div class="thumb" onclick="openBox(11)"><img src="/assets/images/shoemaking/shoe12.jpeg" data-caption=""></div>
+  <div class="thumb" onclick="openBox(12)"><img src="/assets/images/shoemaking/shoe13.jpeg" data-caption=""></div>
+  <div class="thumb" onclick="openBox(13)"><img src="/assets/images/shoemaking/shoe14.jpeg" data-caption=""></div>
+  <div class="thumb" onclick="openBox(14)"><img src="/assets/images/shoemaking/shoe15.jpeg" data-caption=""></div>
+  <div class="thumb" onclick="openBox(15)"><img src="/assets/images/shoemaking/shoe16.jpeg" data-caption=""></div>
+  <div class="thumb" onclick="openBox(16)"><img src="/assets/images/shoemaking/shoe17.jpeg" data-caption=""></div>
+  <div class="thumb" onclick="openBox(17)"><img src="/assets/images/shoemaking/shoe18.jpeg" data-caption=""></div>
+  <div class="thumb" onclick="openBox(18)"><img src="/assets/images/shoemaking/shoe19.jpeg" data-caption=""></div>
+  <div class="thumb" onclick="openBox(19)"><img src="/assets/images/shoemaking/shoe20.jpeg" data-caption=""></div>
+  <div class="thumb" onclick="openBox(20)"><img src="/assets/images/shoemaking/shoe21.jpeg" data-caption=""></div>
+  <div class="thumb" onclick="openBox(21)"><img src="/assets/images/shoemaking/shoe22.jpeg" data-caption=""></div>
+  <div class="thumb" onclick="openBox(22)"><img src="/assets/images/shoemaking/shoe23.jpeg" data-caption=""></div>
+  <div class="thumb" onclick="openBox(23)"><img src="/assets/images/shoemaking/shoe24.jpeg" data-caption=""></div>
+  <div class="thumb" onclick="openBox(24)"><img src="/assets/images/shoemaking/shoe25.jpeg" data-caption=""></div>
+  <div class="thumb" onclick="openBox(25)"><img src="/assets/images/shoemaking/shoe26.jpeg" data-caption=""></div>
+  <div class="thumb" onclick="openBox(26)"><img src="/assets/images/shoemaking/shoe27.jpeg" data-caption=""></div>
+  <div class="thumb" onclick="openBox(27)"><img src="/assets/images/shoemaking/shoe28.jpeg" data-caption=""></div>
+  <div class="thumb" onclick="openBox(28)"><img src="/assets/images/shoemaking/shoe29.jpeg" data-caption=""></div>
+  <div class="thumb" onclick="openBox(29)"><img src="/assets/images/shoemaking/shoe30.jpeg" data-caption=""></div>
+  <div class="thumb" onclick="openBox(30)"><img src="/assets/images/shoemaking/shoe31.jpeg" data-caption=""></div>
+  <div class="thumb" onclick="openBox(31)"><img src="/assets/images/shoemaking/shoe32.jpeg" data-caption=""></div>
+  <div class="thumb" onclick="openBox(32)"><img src="/assets/images/shoemaking/shoe33.jpeg" data-caption=""></div>
+  <div class="thumb" onclick="openBox(33)"><img src="/assets/images/shoemaking/shoe34.jpeg" data-caption=""></div>
+  <div class="thumb" onclick="openBox(34)"><img src="/assets/images/shoemaking/shoe35.jpeg" data-caption=""></div>
+  <div class="thumb" onclick="openBox(35)"><img src="/assets/images/shoemaking/shoe36.jpeg" data-caption=""></div>
+  <div class="thumb" onclick="openBox(36)"><img src="/assets/images/shoemaking/shoe37.jpeg" data-caption=""></div>
+  <div class="thumb" onclick="openBox(37)"><img src="/assets/images/shoemaking/shoe38.jpeg" data-caption=""></div>
+  <div class="thumb" onclick="openBox(38)"><img src="/assets/images/shoemaking/shoe39.jpeg" data-caption=""></div>
+  <div class="thumb" onclick="openBox(39)"><img src="/assets/images/shoemaking/shoe40.jpeg" data-caption=""></div>
 </div>
 
 <div id="lightbox" onclick="closeBox(event)">
   <span id="lightbox-close" onclick="closeBox()">&times;</span>
+  <span id="lightbox-prev" onclick="navigate(event, -1)">&#8592;</span>
   <img id="lightbox-img" src="" alt="">
+  <span id="lightbox-next" onclick="navigate(event, 1)">&#8594;</span>
   <div id="lightbox-caption"></div>
+  <div id="lightbox-counter"></div>
 </div>
 
 <script>
-function openBox(el) {
-  var img = el.querySelector('img');
-  document.getElementById('lightbox-img').src = img.src;
-  document.getElementById('lightbox-caption').textContent = img.getAttribute('data-caption');
+var currentIndex = 0;
+var thumbs = document.querySelectorAll('.shoe-gallery .thumb img');
+var total = thumbs.length;
+
+function openBox(index) {
+  currentIndex = index;
+  showImage();
   document.getElementById('lightbox').classList.add('active');
 }
+
+function showImage() {
+  var img = thumbs[currentIndex];
+  document.getElementById('lightbox-img').src = img.src;
+  document.getElementById('lightbox-caption').textContent = img.getAttribute('data-caption');
+  document.getElementById('lightbox-counter').textContent = (currentIndex + 1) + ' / ' + total;
+}
+
+function navigate(e, dir) {
+  e.stopPropagation();
+  currentIndex = (currentIndex + dir + total) % total;
+  showImage();
+}
+
 function closeBox(e) {
   if (!e || e.target === document.getElementById('lightbox') || e.target.id === 'lightbox-close') {
     document.getElementById('lightbox').classList.remove('active');
   }
 }
+
 document.addEventListener('keydown', function(e) {
+  if (!document.getElementById('lightbox').classList.contains('active')) return;
   if (e.key === 'Escape') closeBox();
+  if (e.key === 'ArrowRight') navigate(e, 1);
+  if (e.key === 'ArrowLeft')  navigate(e, -1);
 });
 </script>
