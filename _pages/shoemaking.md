@@ -1,11 +1,8 @@
 ---
-title: ""
+title: "A Shoemaker's Path into Science"
 layout: single
 permalink: /shoemaking/
 ---
-
-# A Shoemaker's Path into Science
-
 <figure style="max-width: 300px; margin: 1em auto;">
   <div class="thumb" onclick="openBox(0)" style="width: 100%; height: auto;">
     <img src="/assets/images/shoemaking/shoe1.jpeg" data-caption="The Meisterstück." style="width: 100%; height: auto; object-fit: cover;">
