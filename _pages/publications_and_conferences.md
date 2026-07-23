@@ -60,6 +60,13 @@ permalink: /scientific_contributions/
   </li>
 
   <li>
+    Schulz, H., Stolla, K., Köhler, L., <b>Winkler, M.</b>, and Rixen, M. (2024).
+    <br><i>pysonde: Postprocessing of Atmospheric Soundings</i> (Version v0.0.7) [Computer software].
+    <br>Zenodo.
+    <br><a href="https://doi.org/10.5281/zenodo.13831915">https://doi.org/10.5281/zenodo.13831915</a>
+  </li>
+
+  <li>
     Hohenegger, C., Korn, P., Linardakis, L., Redler, R., Schnur, R., Adamidis, P., Bao, J., Bastin, S., Behravesh, M., Bergemann, M., Biercamp, J., Bockelmann, H., Brokopf, R., Brüggemann, N., Casaroli, L., Chegini, F., Datseris, G., Esch, M., George, G., Giorgetta, M., Gutjahr, O., Haak, H., Hanke, M., Ilyina, T., Jahns, T., Jungclaus, J., Kern, M., Klocke, D., Kluft, L., Kölling, T., Kornblueh, L., Kosukhin, S., Kroll, C., Lee, J., Mauritsen, T., Mehlmann, C., Mieslinger, T., Naumann, A. K., Paccini, L., Peinado, A., Praturi, D. S., Putrasahan, D., Rast, S., Riddick, T., Roeber, N., Schmidt, H., Schulzweida, U., Schütte, F., Segura, H., Shevchenko, R., Singh, V., Specht, M., Stephan, C. C., von Storch, J.-S., Vogel, R., Wengel, C., <b>Winkler, M.</b>, Ziemen, F., Marotzke, J., & Stevens, B. (2023). 
     <br>"ICON-Sapphire: Simulating the Components of the Earth System and Their Interactions at Kilometer and Sub-Kilometer Scales." 
     <br><i>Geoscientific Model Development</i>, 16, 779–811. 
