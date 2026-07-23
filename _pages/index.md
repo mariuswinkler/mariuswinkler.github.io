@@ -4,7 +4,7 @@ layout: single
 permalink: /
 ---
 
-<div style="margin-top: -4rem;">
+<div style="margin-top: -3rem;">
   <figure>
     <div style="display: flex; justify-content: center;">
       <video id="myVideo" style="width: 70%; height: auto; object-fit: cover;" controls autoplay loop>
