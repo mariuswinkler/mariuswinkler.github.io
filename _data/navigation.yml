@@ -7,5 +7,5 @@ main:
     url: /cv/
   - title: "Scientific Contributions"
     url: /scientific_contributions/
-  - title: '<img src="/assets/CV/Schuh1.png" style="height: 1.2em; vertical-align: -0.2em;">'
+  - title: '<img src="/assets/CV/Schuh1.png" style="height: 1.0em; vertical-align: -0.2em; transform: scaleX(-1);">'
     url: /shoemaking/
