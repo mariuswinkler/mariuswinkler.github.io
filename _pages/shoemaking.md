@@ -4,7 +4,7 @@ layout: single
 permalink: /shoemaking/
 ---
 
-# From Workshop to Workbench: A Shoemaker's Path into Science
+# A Shoemaker's Path into Science
 
 There is a particular satisfaction in holding something in your hands that did not exist before. A well-turned joint. A cleanly skived edge. A heel, built up layer by layer, that stands perfectly plumb. It is the same satisfaction as closing a proof. Every step follows inevitably from the last. The result is both surprising and, in hindsight, completely obvious.
 
@@ -47,7 +47,7 @@ For six months, I spent every weekend travelling to Berlin to attend the Master'
 My "Meisterstück", the master's piece, is shown below. It represents everything the preceding years had taught me about patience, precision, and the willingness to redo something until it is right.
 
 <figure>
-<img src="/assets/CV/shoe1.jpeg" alt="Master's piece, bespoke shoes" style="width: 80%; display: block; margin: 1.5em auto;">
+<img src="/assets/images/shoe1.jpeg" alt="Master's piece, bespoke shoes" style="width: 80%; display: block; margin: 1.5em auto;">
 <figcaption style="text-align: center; font-style: italic; color: #666; margin-top: 0.5em;">
     The Meisterstück, completed as part of the German Master Craftsman examination in bespoke shoemaking.
 </figcaption>
@@ -149,16 +149,16 @@ The workshop will always be there. But the atmosphere is changing. And that is w
 
 <div class="shoe-gallery">
   <div class="thumb" onclick="openBox(this)">
-    <img src="/assets/CV/shoe1.jpeg" data-caption="The Meisterstück.">
+    <img src="/assets/images/shoe1.jpeg" data-caption="The Meisterstück.">
   </div>
   <div class="thumb" onclick="openBox(this)">
-    <img src="/assets/CV/shoe2.jpeg" data-caption="">
+    <img src="/assets/images/shoe2.jpeg" data-caption="">
   </div>
   <div class="thumb" onclick="openBox(this)">
-    <img src="/assets/CV/shoe3.jpeg" data-caption="">
+    <img src="/assets/images/shoe3.jpeg" data-caption="">
   </div>
   <div class="thumb" onclick="openBox(this)">
-    <img src="/assets/CV/shoe4.jpeg" data-caption="">
+    <img src="/assets/images/shoe4.jpeg" data-caption="">
   </div>
 </div>
 
