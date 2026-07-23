@@ -61,8 +61,8 @@ permalink: /scientific_contributions/
 
   <li>
     Schulz, H., Stolla, K., Köhler, L., <b>Winkler, M.</b>, and Rixen, M. (2024).
-    <br><i>pysonde: Postprocessing of Atmospheric Soundings</i> (Version v0.0.7) [Computer software].
-    <br>Zenodo.
+    <br>pysonde: Postprocessing of Atmospheric Soundings (Version v0.0.7) [Computer software].
+    <br><i>Zenodo</i>.
     <br><a href="https://doi.org/10.5281/zenodo.13831915">https://doi.org/10.5281/zenodo.13831915</a>
   </li>
 
