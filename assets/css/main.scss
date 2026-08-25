@@ -9,40 +9,48 @@
 
 
 .author__avatar {
-  display: table-cell;
-  vertical-align: top;
-  width: 120px; // customize as you like
-  height: 120px;
+display: table-cell;
+vertical-align: top;
+width: 120px; // customize as you like
+height: 120px;
 
-  @include breakpoint($large) {
-    display: block;
-    width: auto;
-    height: auto;
+@include breakpoint($large) {
+display: block;
+width: auto;
+height: auto;
   }
 
-  img {
-    max-width: 175px; // makes the image scale within the avatar box
-    border-radius: 50%;
+img {
+max-width: 175px; // makes the image scale within the avatar box
+border-radius: 50%;
 
-    @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid $border-color;
+@include breakpoint($large) {
+padding: 5px;
+border: 1px solid $border-color;
     }
   }
 }
 
 .code-box {
-  background-color: #f5f5f5;
-  border: 1px solid #ddd;
-  font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
-  font-size: 0.85em;
-  padding: 0.75em;
-  border-radius: 5px;
-  overflow-x: auto;
-  color: #333;
-  width: fit-content;
-  max-width: 100%;
+background-color: #f5f5f5;
+border: 1px solid #ddd;
+font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
+font-size: 0.85em;
+padding: 0.75em;
+border-radius: 5px;
+overflow-x: auto;
+color: #333;
+width: fit-content;
+max-width: 100%;
 }
 
 .code-box .keyword { color: #22863a; }  // green
 .code-box .string { color: #d73a49; }   // red
+
+.masthead__inner-wrap .site-title {
+  display: none;
+}
+
+.masthead__inner-wrap {
+  justify-content: flex-end;
+}
