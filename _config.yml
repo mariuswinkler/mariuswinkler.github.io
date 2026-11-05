@@ -26,7 +26,6 @@ author:
     #  url: "https://mpimet.mpg.de"
     - label: "Karlsruhe, Germany"
       icon: "fas fa-map-pin"
-      url: ""
     - label: "Email"
       icon: "fas fa-envelope"
       url: "mailto:win.m.winkler@gmail.com"
