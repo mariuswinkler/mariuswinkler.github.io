@@ -141,13 +141,13 @@ Two hearts still beat in my chest, one for science and one for the craft. They k
   <div class="thumb"><img src="/assets/images/shoemaking/shoe23.jpeg" data-caption=""></div>
   <div class="thumb"><img src="/assets/images/shoemaking/shoe24.jpeg" data-caption=""></div>
   <!-- Lasts and materials -->
-  <div class="thumb"><img src="/assets/images/shoemaking/shoe32.jpeg" data-caption=""></div>
   <div class="thumb"><img src="/assets/images/shoemaking/shoe34.jpeg" data-caption=""></div>
   <div class="thumb"><img src="/assets/images/shoemaking/shoe33.jpeg" data-caption=""></div>
+  <div class="thumb"><img src="/assets/images/shoemaking/shoe32.jpeg" data-caption=""></div>
   <div class="thumb"><img src="/assets/images/shoemaking/shoe35.jpeg" data-caption=""></div>
   <!-- Machines -->
-  <div class="thumb"><img src="/assets/images/shoemaking/shoe27.jpeg" data-caption=""></div>
   <div class="thumb"><img src="/assets/images/shoemaking/shoe28.jpeg" data-caption=""></div>
+  <div class="thumb"><img src="/assets/images/shoemaking/shoe27.jpeg" data-caption=""></div>
   <div class="thumb"><img src="/assets/images/shoemaking/shoe29.jpeg" data-caption=""></div>
   <div class="thumb"><img src="/assets/images/shoemaking/shoe30.jpeg" data-caption=""></div>
   <!-- Making the shoe -->

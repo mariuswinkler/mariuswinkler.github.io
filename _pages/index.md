@@ -13,7 +13,7 @@ permalink: /
       </video>
     </div>
     <figcaption style="background-color: #f2f2f2; padding: 5px; max-width: 100%; margin: 0 auto;">
-      Surface winds (gray) and sea surface temperature (color) from an ICON simulation at 5 km resolution. Over land, the winds trace mountains and valleys. Over the ocean, they move the water. The cold patches along the equator are the cold tongues, where wind-driven upwelling brings cold water to the surface. <br>Credit: MPI-M, DKRZ.
+      Surface winds (gray) and sea surface temperature (color) from an ICON simulation at 5 km resolution. Over land, the winds trace mountains and valleys. Over the ocean, they move the water. The cold patches along the equator are the cold tongues, where wind-driven upwelling brings cold water to the surface.
     </figcaption>
   </figure>
 </div>
