@@ -131,18 +131,18 @@ Two hearts still beat in my chest, one for science and one for the craft. They k
   <div class="thumb"><img src="/assets/images/shoemaking/shoe11.jpeg" data-caption=""></div>
   <div class="thumb"><img src="/assets/images/shoemaking/shoe12.jpeg" data-caption=""></div>
   <!-- Workshop in black and white -->
-  <div class="thumb"><img src="/assets/images/shoemaking/shoe32.jpeg" data-caption=""></div>
-  <div class="thumb"><img src="/assets/images/shoemaking/shoe34.jpeg" data-caption=""></div>
+  <div class="thumb"><img src="/assets/images/shoemaking/shoe19.jpeg" data-caption=""></div>
+  <div class="thumb"><img src="/assets/images/shoemaking/shoe20.jpeg" data-caption=""></div>
   <div class="thumb"><img src="/assets/images/shoemaking/shoe21.jpeg" data-caption=""></div>
   <div class="thumb"><img src="/assets/images/shoemaking/shoe22.jpeg" data-caption=""></div>
   <!-- From foot to last -->
-  <div class="thumb"><img src="/assets/images/shoemaking/shoe19.jpeg" data-caption=""></div>
-  <div class="thumb"><img src="/assets/images/shoemaking/shoe20.jpeg" data-caption=""></div>
+  <div class="thumb"><img src="/assets/images/shoemaking/shoe25.jpeg" data-caption=""></div>
+  <div class="thumb"><img src="/assets/images/shoemaking/shoe26.jpeg" data-caption=""></div>
   <div class="thumb"><img src="/assets/images/shoemaking/shoe23.jpeg" data-caption=""></div>
   <div class="thumb"><img src="/assets/images/shoemaking/shoe24.jpeg" data-caption=""></div>
   <!-- Lasts and materials -->
-  <div class="thumb"><img src="/assets/images/shoemaking/shoe25.jpeg" data-caption=""></div>
-  <div class="thumb"><img src="/assets/images/shoemaking/shoe26.jpeg" data-caption=""></div>
+  <div class="thumb"><img src="/assets/images/shoemaking/shoe32.jpeg" data-caption=""></div>
+  <div class="thumb"><img src="/assets/images/shoemaking/shoe34.jpeg" data-caption=""></div>
   <div class="thumb"><img src="/assets/images/shoemaking/shoe33.jpeg" data-caption=""></div>
   <div class="thumb"><img src="/assets/images/shoemaking/shoe35.jpeg" data-caption=""></div>
   <!-- Machines -->
