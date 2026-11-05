@@ -24,8 +24,8 @@ permalink: /research/
     Away from the equator, the trade winds follow an Ekman balance between the Coriolis force, the pressure gradient force and surface friction. Near the equator, the Coriolis force vanishes, and pressure gradients, friction and the horizontal and vertical transport of momentum take over. The kilometer-scale climate model ICON resolves these small contributions, so we can measure how much each one matters.
   </p>
 
-  <div style="display: flex; flex-wrap: wrap; gap: 1em; align-items: center; margin-top: 1.5em;">
-    <a href="LINK_TO_ARTICLE" target="_blank">
+  <div id="physik-journal" style="display: flex; flex-wrap: wrap; gap: 1em; align-items: center; margin-top: 1.5em;">
+    <a href="https://pro-physik.de/zeitschriften/physik-journal/2026-11/" target="_blank">
       <img src="/assets/images/physik_journal_2026_11_cover.jpg" alt="Physik Journal cover, November 2026" style="width: 160px; height: auto;">
     </a>
     <p style="flex: 1; min-width: 200px; margin: 0;">
