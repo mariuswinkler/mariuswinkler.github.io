@@ -18,14 +18,16 @@ plugins:
 # Author
 author:
   name: "Dr. Marius Winkler"
+  location: "Karlsruhe, Germany"
   avatar: "/assets/images/MW.jpeg"
   bio: "Physicist <br> Master Shoemaker"
   links:
     #- label: "Max Planck Institute for Meteorology"
     #  icon: "fas fa-map-marker-alt"
     #  url: "https://mpimet.mpg.de"
-    - label: "Karlsruhe, Germany"
-      icon: "fas fa-map-pin"
+    #- label: "Karlsruhe, Germany"
+    #  icon: "fas fa-map-pin"
+    #  url: ""
     - label: "Email"
       icon: "fas fa-envelope"
       url: "mailto:win.m.winkler@gmail.com"
