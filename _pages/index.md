@@ -21,7 +21,7 @@ permalink: /
 Hi! 
 <br>I'm Marius, an atmospheric physicist. 
 I study the winds over tropical oceans. 
-As a kitesurfer and sailor, I care most about the ones right above the water.
+<br>As a kitesurfer and sailor, I care most about the ones right above the water.
 These winds live in the boundary layer, the lowest kilometer or so of the atmosphere. 
 Near the equator, they follow their own rules, because Earth's rotation barely steers them there. 
 They carry heat and moisture from the ocean into the air and link the sea surface to the sky above.
