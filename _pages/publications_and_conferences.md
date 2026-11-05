@@ -79,7 +79,6 @@ permalink: /scientific_contributions/
   <li>
     <b>Winkler, M.</b>, Praturi, D. S., & Stevens, B. (2026). 
     <br>"Getriebene Winde: Kilometerauflösende gekoppelte Simulationen von Atmosphäre und Ozeanen zeigen, wie Grenzschichtprozesse die tropische Zirkulation prägen." [Driven winds: How boundary-layer processes shape the tropical circulation in kilometer-scale coupled simulations of atmosphere and ocean.]
-    <br><i>Physik Journal</i>, 25(11), 26–32. Review article, cover story.
     <br><a href="https://pro-physik.de/zeitschriften/physik-journal/2026-11/" target="_blank"><i>Physik Journal</i></a>, 25(11), 26–32. Cover story.
   </li>
 </ul>
