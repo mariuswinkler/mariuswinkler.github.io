@@ -24,7 +24,7 @@ author:
     #- label: "Max Planck Institute for Meteorology"
     #  icon: "fas fa-map-marker-alt"
     #  url: "https://mpimet.mpg.de"
-    - label: "Hamburg, Germany"
+    - label: "Karlsruhe, Germany"
       icon: "fas fa-map-pin"
       url: ""
     - label: "Email"

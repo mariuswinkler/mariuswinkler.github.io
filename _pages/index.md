@@ -13,14 +13,16 @@ permalink: /
       </video>
     </div>
     <figcaption style="background-color: #f2f2f2; padding: 5px; max-width: 100%; margin: 0 auto;">
-      Surface winds (gray shading) interact dynamically with the Earth's surface—over land, they reveal orographic features, while over the ocean, they actively shape ocean dynamics. Sea surface temperature (color-coded) reaches a local minimum in the equatorial cold tongue regions, a signature of air-sea interaction. Shown is output from an ICON simulation at 5 km resolution. <br>Credit: MPI-M, DKRZ.
+      Surface winds (gray) and sea surface temperature (color) from an ICON simulation at 5 km resolution. Over land, the winds trace mountains and valleys. Over the ocean, they move the water. The cold patches along the equator are the cold tongues, where wind-driven upwelling brings cold water to the surface. <br>Credit: MPI-M, DKRZ.
     </figcaption>
   </figure>
 </div>
 
-Salut ! 
-<br>I am Marius, an atmospheric physicist and postdoctoral researcher.
-My research centers on equatorial dynamics. As a kitesurfer and sailor, I’m particularly interested in surface winds and the processes within the atmospheric boundary layer over the oceans.
-The equator is one of the warmest regions on Earth on an annual average. At the same time, wind-driven ocean currents bring cold water masses to the surface, where they interact with the warm boundary layer. This interaction creates temperature gradients that lead to pressure gradients and drive boundary layer winds.
-Yet, the warm boundary layer also interacts with the overlying free troposphere and thus serves as an active, mediating layer that connects Earth’s surface with the higher atmosphere. 
-<br>Exciting, isn't it ?
+Hi! 
+<br>I'm Marius, an atmospheric physicist and postdoc. 
+I study the winds over tropical oceans. 
+As a kitesurfer and sailor, I care most about the ones right above the water.
+These winds live in the boundary layer, the lowest kilometer or so of the atmosphere. 
+Near the equator, they follow their own rules, because Earth's rotation barely steers them there. 
+They carry heat and moisture from the ocean into the air and link the sea surface to the sky above.
+I want to understand what drives them and help weather and climate models get them right.
