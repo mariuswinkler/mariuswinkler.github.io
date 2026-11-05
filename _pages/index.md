@@ -19,7 +19,7 @@ permalink: /
 </div>
 
 Hi! 
-<br>I'm Marius, an atmospheric physicist and postdoc. 
+<br>I'm Marius, an atmospheric physicist. 
 I study the winds over tropical oceans. 
 As a kitesurfer and sailor, I care most about the ones right above the water.
 These winds live in the boundary layer, the lowest kilometer or so of the atmosphere. 

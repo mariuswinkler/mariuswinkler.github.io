@@ -114,6 +114,12 @@ INPUT ./WINKLER_Marius_CV.aux
 INPUT ./WINKLER_Marius_CV.aux
 INPUT WINKLER_Marius_CV.aux
 OUTPUT WINKLER_Marius_CV.aux
+INPUT ./WINKLER_Marius_CV.out
+INPUT ./WINKLER_Marius_CV.out
+INPUT WINKLER_Marius_CV.out
+INPUT WINKLER_Marius_CV.out
+INPUT ./WINKLER_Marius_CV.out
+INPUT ./WINKLER_Marius_CV.out
 OUTPUT WINKLER_Marius_CV.out
 OUTPUT WINKLER_Marius_CV.pdf
 INPUT /usr/local/texlive/2026/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
