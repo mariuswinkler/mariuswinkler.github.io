@@ -7,7 +7,7 @@ permalink: /
 <div style="margin-top: -2rem;">
   <figure>
     <div style="display: flex; justify-content: center;">
-      <video id="myVideo" style="width: 70%; height: auto; object-fit: cover;" controls autoplay loop>
+      <video id="myVideo" style="width: 70%; height: auto; object-fit: cover;" controls autoplay muted loop playsinline>
         <source src="/assets/videos/Video_fps=24_DPI=100.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
@@ -17,6 +17,8 @@ permalink: /
     </figcaption>
   </figure>
 </div>
+
+
 
 Hi! 
 <br>I'm Marius, an atmospheric physicist. 
