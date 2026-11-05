@@ -19,14 +19,17 @@ Two hearts still beat in my chest, one for science and one for the craft. They k
 
 <style>
 .shoe-gallery {
-  display: flex;
-  flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
   gap: 10px;
+  max-width: 600px;
   margin-top: 1.5em;
 }
+@media (max-width: 600px) {
+  .shoe-gallery { grid-template-columns: repeat(2, 1fr); }
+}
 .shoe-gallery .thumb {
-  width: 140px;
-  height: 140px;
+  aspect-ratio: 1 / 1;
   overflow: hidden;
   cursor: pointer;
   border: 2px solid #ddd;
@@ -107,46 +110,56 @@ Two hearts still beat in my chest, one for science and one for the craft. They k
 </style>
 
 <div class="shoe-gallery">
-  <div class="thumb" onclick="openBox(0)"><img src="/assets/images/shoemaking/shoe2.jpeg"  data-caption=""></div>
-  <div class="thumb" onclick="openBox(1)"><img src="/assets/images/shoemaking/shoe3.jpeg"  data-caption=""></div>
-  <div class="thumb" onclick="openBox(2)"><img src="/assets/images/shoemaking/shoe4.jpeg"  data-caption=""></div>
-  <div class="thumb" onclick="openBox(3)"><img src="/assets/images/shoemaking/shoe5.jpeg"  data-caption=""></div>
-  <div class="thumb" onclick="openBox(4)"><img src="/assets/images/shoemaking/shoe6.jpeg"  data-caption=""></div>
-  <div class="thumb" onclick="openBox(5)"><img src="/assets/images/shoemaking/shoe7.jpeg"  data-caption=""></div>
-  <div class="thumb" onclick="openBox(6)"><img src="/assets/images/shoemaking/shoe8.jpeg"  data-caption=""></div>
-  <div class="thumb" onclick="openBox(7)"><img src="/assets/images/shoemaking/shoe9.jpeg"  data-caption=""></div>
-  <div class="thumb" onclick="openBox(8)"><img src="/assets/images/shoemaking/shoe10.jpeg" data-caption=""></div>
-  <div class="thumb" onclick="openBox(9)"><img src="/assets/images/shoemaking/shoe11.jpeg" data-caption=""></div>
-  <div class="thumb" onclick="openBox(10)"><img src="/assets/images/shoemaking/shoe12.jpeg" data-caption=""></div>
-  <div class="thumb" onclick="openBox(11)"><img src="/assets/images/shoemaking/shoe13.jpeg" data-caption=""></div>
-  <div class="thumb" onclick="openBox(12)"><img src="/assets/images/shoemaking/shoe14.jpeg" data-caption=""></div>
-  <div class="thumb" onclick="openBox(13)"><img src="/assets/images/shoemaking/shoe15.jpeg" data-caption=""></div>
-  <div class="thumb" onclick="openBox(14)"><img src="/assets/images/shoemaking/shoe16.jpeg" data-caption=""></div>
-  <div class="thumb" onclick="openBox(15)"><img src="/assets/images/shoemaking/shoe17.jpeg" data-caption=""></div>
-  <div class="thumb" onclick="openBox(16)"><img src="/assets/images/shoemaking/shoe18.jpeg" data-caption=""></div>
-  <div class="thumb" onclick="openBox(17)"><img src="/assets/images/shoemaking/shoe19.jpeg" data-caption=""></div>
-  <div class="thumb" onclick="openBox(18)"><img src="/assets/images/shoemaking/shoe20.jpeg" data-caption=""></div>
-  <div class="thumb" onclick="openBox(19)"><img src="/assets/images/shoemaking/shoe21.jpeg" data-caption=""></div>
-  <div class="thumb" onclick="openBox(20)"><img src="/assets/images/shoemaking/shoe22.jpeg" data-caption=""></div>
-  <div class="thumb" onclick="openBox(21)"><img src="/assets/images/shoemaking/shoe23.jpeg" data-caption=""></div>
-  <div class="thumb" onclick="openBox(22)"><img src="/assets/images/shoemaking/shoe24.jpeg" data-caption=""></div>
-  <div class="thumb" onclick="openBox(23)"><img src="/assets/images/shoemaking/shoe25.jpeg" data-caption=""></div>
-  <div class="thumb" onclick="openBox(24)"><img src="/assets/images/shoemaking/shoe26.jpeg" data-caption=""></div>
-  <div class="thumb" onclick="openBox(25)"><img src="/assets/images/shoemaking/shoe27.jpeg" data-caption=""></div>
-  <div class="thumb" onclick="openBox(26)"><img src="/assets/images/shoemaking/shoe28.jpeg" data-caption=""></div>
-  <div class="thumb" onclick="openBox(27)"><img src="/assets/images/shoemaking/shoe29.jpeg" data-caption=""></div>
-  <div class="thumb" onclick="openBox(28)"><img src="/assets/images/shoemaking/shoe30.jpeg" data-caption=""></div>
-  <div class="thumb" onclick="openBox(29)"><img src="/assets/images/shoemaking/shoe31.jpeg" data-caption=""></div>
-  <div class="thumb" onclick="openBox(30)"><img src="/assets/images/shoemaking/shoe32.jpeg" data-caption=""></div>
-  <div class="thumb" onclick="openBox(31)"><img src="/assets/images/shoemaking/shoe33.jpeg" data-caption=""></div>
-  <div class="thumb" onclick="openBox(32)"><img src="/assets/images/shoemaking/shoe34.jpeg" data-caption=""></div>
-  <div class="thumb" onclick="openBox(33)"><img src="/assets/images/shoemaking/shoe35.jpeg" data-caption=""></div>
-  <div class="thumb" onclick="openBox(34)"><img src="/assets/images/shoemaking/shoe36.jpeg" data-caption=""></div>
-  <div class="thumb" onclick="openBox(35)"><img src="/assets/images/shoemaking/shoe37.jpeg" data-caption=""></div>
-  <div class="thumb" onclick="openBox(36)"><img src="/assets/images/shoemaking/shoe38.jpeg" data-caption=""></div>
-  <div class="thumb" onclick="openBox(37)"><img src="/assets/images/shoemaking/shoe39.jpeg" data-caption=""></div>
-  <div class="thumb" onclick="openBox(38)"><img src="/assets/images/shoemaking/shoe40.jpeg" data-caption=""></div>
-  <div class="thumb" onclick="openBox(39)"><img src="/assets/images/shoemaking/shoe41.jpeg" data-caption=""></div>
+  <!-- Finished shoes: black and dark -->
+  <div class="thumb"><img src="/assets/images/shoemaking/shoe2.jpeg"  data-caption=""></div>
+  <div class="thumb"><img src="/assets/images/shoemaking/shoe3.jpeg"  data-caption=""></div>
+  <div class="thumb"><img src="/assets/images/shoemaking/shoe4.jpeg"  data-caption=""></div>
+  <div class="thumb"><img src="/assets/images/shoemaking/shoe13.jpeg" data-caption=""></div>
+  <!-- Golden background, dark to light -->
+  <div class="thumb"><img src="/assets/images/shoemaking/shoe17.jpeg" data-caption=""></div>
+  <div class="thumb"><img src="/assets/images/shoemaking/shoe16.jpeg" data-caption=""></div>
+  <div class="thumb"><img src="/assets/images/shoemaking/shoe15.jpeg" data-caption=""></div>
+  <div class="thumb"><img src="/assets/images/shoemaking/shoe14.jpeg" data-caption=""></div>
+  <!-- Light brown wingtip series -->
+  <div class="thumb"><img src="/assets/images/shoemaking/shoe5.jpeg"  data-caption=""></div>
+  <div class="thumb"><img src="/assets/images/shoemaking/shoe6.jpeg"  data-caption=""></div>
+  <div class="thumb"><img src="/assets/images/shoemaking/shoe7.jpeg"  data-caption=""></div>
+  <div class="thumb"><img src="/assets/images/shoemaking/shoe8.jpeg"  data-caption=""></div>
+  <!-- Boots -->
+  <div class="thumb"><img src="/assets/images/shoemaking/shoe9.jpeg"  data-caption=""></div>
+  <div class="thumb"><img src="/assets/images/shoemaking/shoe10.jpeg" data-caption=""></div>
+  <div class="thumb"><img src="/assets/images/shoemaking/shoe11.jpeg" data-caption=""></div>
+  <div class="thumb"><img src="/assets/images/shoemaking/shoe12.jpeg" data-caption=""></div>
+  <!-- Workshop in black and white -->
+  <div class="thumb"><img src="/assets/images/shoemaking/shoe19.jpeg" data-caption=""></div>
+  <div class="thumb"><img src="/assets/images/shoemaking/shoe20.jpeg" data-caption=""></div>
+  <div class="thumb"><img src="/assets/images/shoemaking/shoe21.jpeg" data-caption=""></div>
+  <div class="thumb"><img src="/assets/images/shoemaking/shoe22.jpeg" data-caption=""></div>
+  <!-- From foot to last -->
+  <div class="thumb"><img src="/assets/images/shoemaking/shoe32.jpeg" data-caption=""></div>
+  <div class="thumb"><img src="/assets/images/shoemaking/shoe34.jpeg" data-caption=""></div>
+  <div class="thumb"><img src="/assets/images/shoemaking/shoe23.jpeg" data-caption=""></div>
+  <div class="thumb"><img src="/assets/images/shoemaking/shoe24.jpeg" data-caption=""></div>
+  <!-- Lasts and materials -->
+  <div class="thumb"><img src="/assets/images/shoemaking/shoe25.jpeg" data-caption=""></div>
+  <div class="thumb"><img src="/assets/images/shoemaking/shoe26.jpeg" data-caption=""></div>
+  <div class="thumb"><img src="/assets/images/shoemaking/shoe33.jpeg" data-caption=""></div>
+  <div class="thumb"><img src="/assets/images/shoemaking/shoe35.jpeg" data-caption=""></div>
+  <!-- Machines -->
+  <div class="thumb"><img src="/assets/images/shoemaking/shoe27.jpeg" data-caption=""></div>
+  <div class="thumb"><img src="/assets/images/shoemaking/shoe28.jpeg" data-caption=""></div>
+  <div class="thumb"><img src="/assets/images/shoemaking/shoe29.jpeg" data-caption=""></div>
+  <div class="thumb"><img src="/assets/images/shoemaking/shoe30.jpeg" data-caption=""></div>
+  <!-- Making the shoe -->
+  <div class="thumb"><img src="/assets/images/shoemaking/shoe31.jpeg" data-caption=""></div>
+  <div class="thumb"><img src="/assets/images/shoemaking/shoe36.jpeg" data-caption=""></div>
+  <div class="thumb"><img src="/assets/images/shoemaking/shoe37.jpeg" data-caption=""></div>
+  <div class="thumb"><img src="/assets/images/shoemaking/shoe38.jpeg" data-caption=""></div>
+  <!-- The finish -->
+  <div class="thumb"><img src="/assets/images/shoemaking/shoe39.jpeg" data-caption=""></div>
+  <div class="thumb"><img src="/assets/images/shoemaking/shoe40.jpeg" data-caption=""></div>
+  <div class="thumb"><img src="/assets/images/shoemaking/shoe18.jpeg" data-caption=""></div>
+  <div class="thumb"><img src="/assets/images/shoemaking/shoe41.jpeg" data-caption=""></div>
 </div>
 
 <div id="lightbox" onclick="closeBox(event)">
@@ -162,6 +175,10 @@ Two hearts still beat in my chest, one for science and one for the craft. They k
 var currentIndex = 0;
 var thumbs = document.querySelectorAll('.shoe-gallery .thumb img');
 var total = thumbs.length;
+
+document.querySelectorAll('.shoe-gallery .thumb').forEach(function(el, i) {
+  el.addEventListener('click', function() { openBox(i); });
+});
 
 function openBox(index) {
   currentIndex = index;
