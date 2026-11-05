@@ -9,82 +9,61 @@ permalink: /research/
   </span>
 </div>
 
+<h2>Winds at the equator</h2>
+
 <figure>
     <img src="/assets/images/Equatorial_Winds.png" alt="Equatorial Surface Wind Pattern">
-    <figcaption style="background-color: #f2f2f2; padding: 5px;"> Wind patterns along the equator. Top: Equatorial region of interest. Bottom: Daily mean wind patterns, meridionally averaged between 2°S and 2°N (including land areas), based on a two-year ICON simulation. Meridional wind components are shown in green, zonal components in pink, with white indicating the transition between the two regimes. </figcaption>
+    <figcaption style="background-color: #f2f2f2; padding: 5px;">Wind patterns along the equator from a two-year ICON simulation. Top: the region of interest. Bottom: daily mean winds averaged between 2°S and 2°N (land included). Green marks meridional winds, pink marks zonal winds, and white marks the transition between them.</figcaption>
 </figure>
 <section>
   <p>
-    As part of my PhD research, I investigated the dynamics of surface winds over the equatorial oceans.
-    The figure above illustrates two distinct wind patterns that prevail near the equator: the Zonal Wind Pattern, which flows parallel to the equator, and the Meridional Wind Pattern, which crosses it.
-    Contrary to intuitive expectations, the winds cross the equator at nearly right angles in some regions.
-    These areas are highlighted in green, representing the Meridional Wind Pattern.
+    For my PhD, I studied surface winds over the equatorial oceans. Two wind patterns dominate there. In the zonal pattern (pink), the winds blow along the equator. In the meridional pattern (green), they cross it, in some places at nearly right angles.
   </p>
 
   <p>
-    On their journey toward the equator, originating from the higher latitudes where the trade winds descend
-    from the Hadley cell, the momentum balance governing these winds undergoes a shift.
-    Farther from the equator, an Ekman balance between the Coriolis force, pressure gradient force, and surface
-    friction dominates. Closer to the equator, however, the Coriolis force vanishes, and the balance is instead
-    shaped by the pressure gradient force, surface friction, and both horizontal and vertical momentum transport.
+    Away from the equator, the trade winds follow an Ekman balance between the Coriolis force, the pressure gradient force and surface friction. Near the equator, the Coriolis force vanishes, and pressure gradients, friction and the horizontal and vertical transport of momentum take over. The kilometer-scale climate model ICON resolves these small contributions, so we can measure how much each one matters.
   </p>
 
-  <p>
-    With the high resolution of the storm-resolving climate model ICON which operates at kilometer scale, we can capture
-    these subtle contributions and quantify their role in shaping the equatorial surface wind momentum budget.
-  </p>
+  <div style="display: flex; flex-wrap: wrap; gap: 1em; align-items: center; margin-top: 1.5em;">
+    <a href="LINK_TO_ARTICLE" target="_blank">
+      <img src="/assets/images/physik_journal_2026_11_cover.jpg" alt="Physik Journal cover, November 2026" style="width: 160px; height: auto;">
+    </a>
+    <p style="flex: 1; min-width: 200px; margin: 0;">
+      Together with Divya Sri Praturi and Bjorn Stevens, I wrote a review of this work for <em>Physik Journal</em>, the member magazine of the German Physical Society (DPG). It appeared in the November 2026 issue, and one of our ICON simulations made the cover.
+    </p>
+  </div>
 </section>
+
+<h2>Too little heat, too little wind</h2>
 
 <figure>
     <img src="/assets/images/overturning.png" alt="Small scale triggers overturning circulation">
-    <figcaption style="background-color: #f2f2f2; padding: 5px;">Surface heat flux revives surface pressure: an illustrative example. Surface heat exchange (small curly arrows, lower left) triggers convection, shifting the vertical temperature profile (red) toward higher temperatures and lowering surface pressure ("L"). The free troposphere is assumed to rapidly equilibrate horizontal temperature differences by redistributing mass and energy. This adjustment modifies temperature profiles (blue) over non-convective regions and reinforces higher surface pressure ('H') over cooler areas. This process ultimately strengthens surface winds by enhancing the circulation pattern (blue circular arrows). Visualization: Yvonne Schrader. </figcaption>
+    <figcaption style="background-color: #f2f2f2; padding: 5px;">How surface heat fluxes shape surface pressure, an illustration. Heat from the ocean (small curly arrows, lower left) triggers convection, warms the air column (red profile) and lowers surface pressure (L). The free troposphere quickly evens out horizontal temperature differences. This adjusts the temperature profile over non-convective regions (blue) and keeps surface pressure high over cooler areas (H). The circulation (blue arrows) and the surface winds get stronger. Visualization: Yvonne Schrader.</figcaption>
 </figure>
 <section>
   <p>
-    From the study at the top of this page, we learned how important the pressure gradient force is, which is largely shaped by the underlying sea surface temperature (SST).
+    The first study showed that the pressure gradient force matters most, and that the sea surface temperature (SST) largely sets it. Following <a href="https://journals.ametsoc.org/view/journals/atsc/44/17/1520-0469_1987_044_2418_otross_2_0_co_2.xml" target="_blank">Lindzen &amp; Nigam (1987)</a>, the SST alone gives a good estimate of the surface winds. So I was surprised when an atmosphere-only ICON simulation with a prescribed SST produced equatorial winds only about half as strong as ERA5.
   </p>
 
   <p>
-    In an atmosphere-only ICON simulation, I found that, despite prescribing an ideal SST distribution, the equatorial surface winds were, on monthly average, only about half as strong as those in ERA5, which I used as a reference.
-  </p>
-
-  <p>
-    This result was surprising at first, since in the earlier project I demonstrated that, following the approach of 
-    <a href="https://journals.ametsoc.org/view/journals/atsc/44/17/1520-0469_1987_044_2418_otross_2_0_co_2.xml" target="_blank">Lindzen &amp; Nigam (1987)</a>,
-    surface winds can be well approximated by the SST distribution alone.
-  </p>
-
-  <p>
-    By comparing ICON to the standalone COARE algorithm, which is based on observational data from the <a href="https://journals.ametsoc.org/view/journals/bams/73/9/1520-0477_1992_073_1377_tctcor_2_0_co_2.xml" target="_blank">TOGA-COARE</a> field campaign in the early 1990s, we find that while ICON reasonably simulates the momentum exchange, it permits far too little heat exchange.
-  </p>
-
-  <p>
-    Through a sensitivity study, I show how strongly free-tropospheric winds respond to changes in heat exchange at the air-sea interface. Even small changes in surface heat fluxes can lead to enhanced deep convection, which initiates an overturning circulation which ultimately drives the surface winds.
+    A comparison with the standalone COARE algorithm, which is built on observations from the <a href="https://journals.ametsoc.org/view/journals/bams/73/9/1520-0477_1992_073_1377_tctcor_2_0_co_2.xml" target="_blank">TOGA-COARE</a> campaign, showed why. ICON handles the momentum exchange reasonably well but lets far too little heat pass from the ocean to the air. In a sensitivity study, small increases in surface heat flux led to more deep convection. That drives an overturning circulation, which in turn speeds up the surface winds.
   </p>
 </section>
 
+<h2>Fieldwork: ORCESTRA 2024</h2>
+
 <figure>
     <img src="/assets/images/BCO_Action.png" alt="BCO action">
-    <figcaption style="background-color: #f2f2f2; padding: 5px;">Launching radiosondes during the ORCESTRA field campaign 2024 shown here during a BCO outreach event with local students (left, credit: Nina Robbins Blanch) at the <a href="https://barbados.mpimet.mpg.de/" target="_blank">Barbados Cloud Observatory</a> at Deebles Point (right). </figcaption>
+    <figcaption style="background-color: #f2f2f2; padding: 5px;">Launching radiosondes during ORCESTRA 2024 at a BCO outreach event with local students (left, credit: Nina Robbins Blanch), and the <a href="https://barbados.mpimet.mpg.de/" target="_blank">Barbados Cloud Observatory</a> at Deebles Point (right).</figcaption>
 </figure>
 
 <section>
   <p>
-    In 2024, I had the great opportunity to take part in the <a href="https://orcestra-campaign.org/intro.html" target="_blank">ORCESTRA</a> field campaign. For four weeks,
-    I led the radiosonde mission in Barbados, launching 141 sondes together with a team of 15 young scientists.
+    In 2024, I joined the <a href="https://orcestra-campaign.org/intro.html" target="_blank">ORCESTRA</a> field campaign and led the radiosonde mission in Barbados. Over four weeks, a team of 15 young scientists and I launched 141 sondes. It was my first time in the tropics. Water vapor rose like bubbles in a glass of sparkling water, clouds poked above the transition layer like raised index fingers, and a moment later they rained out and were gone.
   </p>
 
   <p>
-    It was my first time in the tropics, and it was eye-opening to witness just how dynamic cloud and weather
-    formation can be. Like bubbles rising in a glass of carbonated water, water vapor ascends, clouds form like
-    raised index fingers above the transition layer and just as quickly, they rain down and vanish again.
-  </p>
-
-  <p>
-    Since returning to Germany, I’ve been post-processing the data from all radiosonde launches conducted at
-    BCO (Barbados), INMG (Sal, Cape Verde), and the R/V Meteor. I am currently writing the data paper, which should be published this year but the dataset is already complete. After installing the 
-    <a href="https://docs.ipfs.tech/install/ipfs-desktop/#windows" target="_blank">IPFS client</a>, 
-    you can run these two python lines to access the data:
+    Back in Germany, I combined all radiosonde launches from BCO (Barbados), INMG (Sal, Cape Verde) and the R/V Meteor into one dataset. The data and how we processed it are described in <a href="https://doi.org/10.5194/essd-18-1833-2026" target="_blank">Winkler et al. (2026)</a>. To access the data, install the <a href="https://docs.ipfs.tech/install/ipfs-desktop/#windows" target="_blank">IPFS client</a> and run:
   </p>
 
   <div class="code-box">
@@ -93,5 +72,3 @@ permalink: /research/
   </div>
 
 </section>
-
-
