@@ -5,45 +5,28 @@ permalink: /der_rote_faden/
 toc: false
 ---
 <span style="font-size: 0.6em; font-style: normal; font-weight: normal;">
-    "Der rote Faden" is a German idiom which refers to a common theme or thread that runs through a story (or a CV).
+    "Der rote Faden" is a German idiom for the common thread that runs through a story (or a CV).
 </span>
 <figure>
     <img src="/assets/images/sailing_panorama.JPG" alt="catamaran_tallinn_bay">
-    <figcaption style="background-color: #f2f2f2; padding: 5px;">In 2017, I circumnavigated the Baltic Sea on an 11-week sailing trip. We didn't always manage to judge the surface winds over the sea well, as the calm in the picture shows. The guy on the port side of the Topcat Spitfire (built 1989) catamaran is me. We're taking a break from the paddling we had to start in order to reach land in time before the sun goes down. Credit: Jasper Peschel</figcaption>
+    <figcaption style="background-color: #f2f2f2; padding: 5px;">In 2017, I sailed around the Baltic Sea in eleven weeks on a Topcat Spitfire catamaran from 1989. We didn't always read the surface winds right, as you can see. That's me on the port side, taking a break from paddling so we'd reach land before sunset. Credit: Jasper Peschel</figcaption>
 </figure>
 
 <section>
   <p>
-    I arrived at the Max Planck Institute in Hamburg by a roundabout way. Nature, our Earth, and the universe have always fascinated me. That’s why I began studying physics: to understand what holds the world together at its core.
+    I took the scenic route to climate science. I've always wanted to understand what holds the world together at its core, so I studied physics. Physics hands you a toolbox full of math and sends you out to put numbers on the world. I loved that from day one.
   </p>
 
   <p>
-    Physics is magnificent: armed with a toolbox of mathematics, physicists look out into the world and strive to comprehend and quantify what’s happening out there. That intrigued me. That’s what I wanted to do.
+    In Berlin, my bachelor's thesis was about complex networks with nonlinear dynamics. They're everywhere, but you rarely see them. The best example sits right between your ears. For my master's thesis in Paris, I joined a neuroscience group and studied how signals spread and synchronize in neural networks. When that synchronization gets extreme, it can show up as epilepsy.
   </p>
 
   <p>
-    In Berlin, during my bachelor’s thesis, I dove into the study of complex networks governed by nonlinear dynamics. These networks often remain invisible to the naked eye although they're everywhere. One of the most fascinating examples?: The human brain.
-  </p>
-
-  <p>
-    For my master’s thesis in Paris, I joined a neuroscience research group and examined how signals propagate and synchronize in neural networks. When this synchronization becomes extreme and abrupt, it can manifest as epilepsy which is a serious condition affecting many people. Not only an exciting, but also incredibly important subject.
-  </p>
-
-  <p>
-    After finishing my master’s, I knew I wanted to stay in science. That was clear. But I also wanted to understand processes that are visible to the naked eye. As a Master Craftsman in  shoemaker, I've always appreciated the beauty of well-structured, intricate processes. Earth’s climate and atmosphere are massive, living networks full of feedbacks and nonlinear dynamics. And so, in a way, my path circled back to where it began.
-  </p>
-
-  <p>
-    I’m excited for many more years working at the intersection of observation, theory, and modeling in the fascinating world of climate science.
+    After that, I wanted to stay in science and study something I could see from my window. I'm also a trained master shoemaker, so I've always had a soft spot for well-built, intricate things. The climate turned out to be one giant network, full of feedbacks and nonlinear dynamics, so my path circled back to where it started. Now I bring observations and models together to understand the atmosphere, and I plan to stay a while.
   </p>
 
   <p style="margin-top: 2em; font-size: 0.9em;">
-    <strong>P.S.</strong> Curious to hear me speak? Check out the <a href="https://vimeo.com/806272814" target="_blank">promotion video</a> for the IMPRS at the MPI in Hamburg. For the shoot, I had to cycle through the deserted streets of Hamburg's Speicherstadt at sunrise, it was cold, surreal, and a lot of fun!
+    <strong>P.S.</strong> Want to hear me talk? Check out the <a href="https://vimeo.com/806272814" target="_blank">promotion video</a> for the IMPRS at the MPI in Hamburg. For the shoot, I cycled through Hamburg's empty Speicherstadt at sunrise. It was freezing and a little surreal, and I loved it.
   </p>
 
 </section>
-
-
-
-
-
